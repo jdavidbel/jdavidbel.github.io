@@ -8,7 +8,7 @@
   href: /teaching/
   subcategories:
     - subtitle: "Current"
-      subhref: "/teaching/ecdif2020ii/"
+      subhref: "./teaching/ecdif2020ii/"
 
 #- title: "Blog"
 #  href: "/blog/"
