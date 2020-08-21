@@ -5,10 +5,15 @@ title: Teaching
 curs:
     - title:   "Ecuaciones Diferenciales"
       <>note:  "In Spanish"
+      year:    "2020-II"
+      uni:     "Universidad Nacional de Colombia Sede Bogotá"
+      url:     "./ecdif2020ii/" 
+pasts:
+    - title:   "Ecuaciones Diferenciales"
+      <>note:  "In Spanish"
       year:    "2020-I"
       uni:     "Universidad Nacional de Colombia Sede Bogotá"
       url:     https://sites.google.com/unal.edu.co/ecdif-2020i/
-pasts:
     - title:   "Química I"
       <>note:  ""
       year:    "2017-I to 2019-I"
