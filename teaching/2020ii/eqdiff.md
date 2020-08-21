@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/ecdif2020ii
+permalink: /teaching/ecdif2020ii/
 title: Ecuaciones Diferenciales 2020-II
 ---
 ![](/teaching/2020ii/img/Chaos.jpg)

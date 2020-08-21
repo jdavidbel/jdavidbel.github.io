@@ -7,7 +7,7 @@ curs:
       <>note:  "In Spanish"
       year:    "2020-II"
       uni:     "Universidad Nacional de Colombia Sede Bogotá"
-      url:     "./teaching/ecdif2020ii/" 
+      url:     "/teaching/ecdif2020ii/" 
 pasts:
     - title:   "Ecuaciones Diferenciales"
       <>note:  "In Spanish"
