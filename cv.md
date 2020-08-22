@@ -42,6 +42,7 @@ BEng Chemical Engineering - Universidad Nacional de Colombia - Sede Bogotá
 ## Programming Languages
 In decreasing order of expertise:
 - Python
+- MATLAB/Octave
 - C++
 - SageMaths
 - Julia

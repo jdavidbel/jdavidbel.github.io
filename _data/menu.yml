@@ -13,8 +13,8 @@
 #- title: "Blog"
 #  href: "/blog/"
 
-- title: "Contact"
-  href: "/contact/"
+#- title: "Contact"
+  #href: "/contact/"
 
 #- title: "Miscellany"
 #  href: "/miscellany/"
