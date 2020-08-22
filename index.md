@@ -13,7 +13,7 @@ This semester I will be teaching differential equations for engineering undergra
 
 I am also organizing a coding club for undergraduates of all disciplines (in Spanish).
 We focus on self-learning, modern tools and techniques, and soft skills,  to build models related to each of the members' discipline.
-Feel free to check drop by [Here](https://alexaleg.github.io/mathmod/).
+Feel free to drop by [here](https://alexaleg.github.io/mathmod/).
 
 Previously, I was a master student in Chemical Engineering at NTNU Trondheim under the supervision of [Prof. Sigurd Skogestad](https://folk.ntnu.no/skoge). I focused on process systems engineering, which is a mix of dynamical systems, control theory, optimisation, and computer science applied to practical problems (not necessarily related to the chemical industry).
 

@@ -36,9 +36,9 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
     - 25% Primer Parcial (**08 de Octubre**)
     - 25% Segundo Parcial (**26 de Noviembre**)
 - 30% Proyectos: en grupos de 5 estudiantes.
-    -10% Proyecto 2.2 Libro Boyce (**24 de Septiembre**) 
-    -10% Proyecto 5.1 Libro Nagle (**29 de Octubre**) 
-    -10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**)
+    - 10% Proyecto 2.2 Libro Boyce (**24 de Septiembre**) 
+    - 10% Proyecto 5.1 Libro Nagle (**29 de Octubre**) 
+    - 10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**)
 - 20% Talleres (6)
     - El objetivo de los talleres es complementar la formación del curso guiándolos a la hora de construir, usar técnicas, y validar técnicas que pueden **no ser vistas en clase**.
     - Solo si entregan los 6 talleres se tendrán en cuenta las 4 mejores notas.
@@ -50,7 +50,8 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
 # Recomendaciones
 - Organice bien su tiempo. El trabajo del curso puede ser abrumador si se deja para última hora.
 - Los proyectos están disponibles desde ya. Es bueno que se familiaricen y empiecen a trabajar desde temprano. 
-- Igualmente busquen grupo temprano. Estos proyectos son bastante trabajo para una sola persona. También incluyen conocimientos de distintas disciplinas, luego es altamente recomendado que trabajen con gente de otras disciplinas.
+- Igualmente busquen grupo temprano. Estos proyectos son <ins>bastante trabajo para una sola persona.</ins> 
+- Los proyectos incluyen conocimientos de distintas disciplinas, luego es altamente recomendado que trabajen con gente de otras disciplinas.
 - La nota será asignada a las personas que estén escritas en el documento entregado.
 - Para los talleres se recomienda que trabajen en grupo pero que escriban las cosas de forma individual.
 - Es recomendable que **Verifiquen** sus respuestas con Python. Pueden usar CoCal + Jupyter para incluir el cálculo a mano y la verificación del ejercicio en un mismo documento.
@@ -77,22 +78,24 @@ La herramienta computacional escogida para este curso es Python:
    -  Linux: utilizar gestor de paquetes de su distribución.
 - Python Online: [CoCalc](https://cocalc.com/doc/python.html)
 - Librerías:
-   - [Numpy](https://numpy.org/devdocs/user/quickstart.html): cálculo numérico en python.
-   - [SymPy](https://docs.sympy.org/latest/tutorial/index.html): cálculo simbólico en python.
-   - [Matplotlib](https://matplotlib.org/3.3.1/users/index.html): gráficos en python.
-   - [SciPy](https://www.scipy.org/getting-started.html): computación científica en python. **AVANZADA**
+   - [Numpy](https://numpy.org/devdocs/user/quickstart.html): cálculo numérico.
+   - [SymPy](https://docs.sympy.org/latest/tutorial/index.html): cálculo simbólico.
+   - [Matplotlib](https://matplotlib.org/3.3.1/users/index.html): gráficos.
+   - [SciPy](https://www.scipy.org/getting-started.html): computación científica. **AVANZADA**
 
 Todas estas herramientas son libres y de código abierto.
+Las pueden usar libremente en su vida profesional.
+
 - Para complementar su formación es importante que usted lea las lecturas que se van a dejar a lo largo del curso. Estas lecturas estarán en Classroom.
 
 - Otras herramientas:
    - [DField& PPlane](https://math.rice.edu/~dfield/)
 - [Curso MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
-Para aprender a usar LaTeX:
-- [Tutoriales Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-- Para usar Latex en línea: [Overleaf](https://www.overleaf.com/)
-- Para usarlo en el computador: [TeXStudio](https://www.texstudio.org/) 
-- Un programa que hace LaTeX menos intimidante: [LyX](https://www.lyx.org/)
+- LaTeX:
+    - [Tutoriales Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+    - Para usar Latex en línea: [Overleaf](https://www.overleaf.com/)
+    - Para usarlo en el computador: [TeXStudio](https://www.texstudio.org/) 
+    - Un programa que hace LaTeX menos intimidante: [LyX](https://www.lyx.org/)
 
 # Reglamentación
 Calendario Académico Universidad Nacional. [Acuerdo 184 de 2020](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=95322)
