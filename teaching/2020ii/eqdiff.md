@@ -77,8 +77,9 @@ La herramienta computacional escogida para este curso es Python:
    -  MAC: utilizar brew. 
    -  Linux: utilizar gestor de paquetes de su distribución.
 - Python Online: 
+    - [Google Colaboratory](https://colab.research.google.com)
     - [Repl.it](https://repl.it/languages) *Seleccionar Python*
-    - [CoCalc](https://cocalc.com/doc/python.html) (No recomendado. Antes era bueno :( )
+    - [CoCalc](https://cocalc.com/doc/python.html) (No recomendado. Antes era bueno :c - pero lo dejo acá por si vuelve a ser bueno c: )
 - Librerías:
    - [Numpy](https://numpy.org/devdocs/user/quickstart.html): cálculo numérico.
    - [SymPy](https://docs.sympy.org/latest/tutorial/index.html): cálculo simbólico.
@@ -92,14 +93,15 @@ Las pueden usar libremente en su vida profesional.
 
 - Otras herramientas:
    - [DField& PPlane](https://math.rice.edu/~dfield/)
-- [Curso MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
+    - [Curso MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
 - LaTeX:
     - [Tutoriales Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
     - Para usar Latex en línea: [Overleaf](https://www.overleaf.com/)
     - Para usarlo en el computador: [TeXStudio](https://www.texstudio.org/) 
     - Un programa que hace LaTeX menos intimidante: [LyX](https://www.lyx.org/)
-
+    
 # Reglamentación
 Calendario Académico Universidad Nacional. [Acuerdo 184 de 2020](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=95322)
 
 Estatuto Estudiantil Pregrado. [Acuerdo 008 de 2008](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=34983)
+
