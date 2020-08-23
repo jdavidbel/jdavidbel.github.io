@@ -76,7 +76,9 @@ La herramienta computacional escogida para este curso es Python:
 -  Python: [anaconda](https://www.anaconda.com/products/individual) [Tutorial instalación en Windows](https://www.youtube.com/watch?v=YQu4OPmQ8Q0)
    -  MAC: utilizar brew. 
    -  Linux: utilizar gestor de paquetes de su distribución.
-- Python Online: [CoCalc](https://cocalc.com/doc/python.html)
+- Python Online: 
+    - [Repl.it](https://repl.it/languages) *Seleccionar Python*
+    - [CoCalc](https://cocalc.com/doc/python.html) (No recomendado. Antes era bueno :( )
 - Librerías:
    - [Numpy](https://numpy.org/devdocs/user/quickstart.html): cálculo numérico.
    - [SymPy](https://docs.sympy.org/latest/tutorial/index.html): cálculo simbólico.
