@@ -10,11 +10,10 @@ title: Ecuaciones Diferenciales 2020-II
 <br> <ins>Horario:</ins> Mar - Jue 18:00 - 20:00
 <br> <ins>Docente:</ins> Alexander Leguizamón
 <br> <ins>Correo:</ins> [aleguizamonr@unal.edu.co](mailto:aleguizamonr@unal.edu.co)
-<br> <ins>Lugar:</ins> Google Meet  - [Link](https://meet.google.com/lookup/dckleuonix) 
+<br> <ins>Lugar:</ins> Google Meet  - [Link](https://meet.google.com/frk-sxee-xdf) 
 <br> <ins>Calendario:</ins> [Ver Archivo en Drive](https://docs.google.com/spreadsheets/d/1_MjxkVWJ-wF5PxZZYBbYpcTnrE9eyr_orTvKbwb7JBM/edit?usp=sharing])
 <br>
-**Nota**: para acceder a algunos de los contenidos del curso deben estar inscritos en el curso de Classroom.
-
+**Actualizado**: 26 de Agosto 2020
 # Descripción del curso
 Este es un curso de ecuaciones diferenciales para ingeniería.
 
@@ -35,26 +34,27 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
 - 50% Parciales escritos
     - 25% Primer Parcial (**08 de Octubre**)
     - 25% Segundo Parcial (**26 de Noviembre**)
-- 30% Proyectos: en grupos de 5 estudiantes.
+- 30% Proyectos: en grupos de 5 estudiantes. La rúbrica a usar estará en classroom.
     - 10% Proyecto 2.2 Libro Boyce (**24 de Septiembre**) 
     - 10% Proyecto 5.1 Libro Nagle (**29 de Octubre**) 
     - 10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**)
 - 20% Talleres (6)
     - El objetivo de los talleres es complementar la formación del curso guiándolos a la hora de construir, usar técnicas, y validar técnicas que pueden **no ser vistas en clase**.
-    - Solo si entregan los 6 talleres se tendrán en cuenta las 4 mejores notas.
+    - Solo si entregan los 6 talleres se tendrán en cuenta las 5 mejores notas.
     - En el calendario aparece la fecha en la que estará disponible cada nuevo taller.
     - La fecha de entrega es la fecha de cada taller es la fecha en que estará disponible el siguiente.
     - De los talleres uno o dos ejercicios **BIEN ESCRITOS** serán calificados. Estos pueden incluir alguna pregunta sobre las lecturas.
-    - Los talleres estarán en la [carpeta en Drive del curso.](https://drive.google.com/drive/folders/1qarcnN5hR8Ej5jjFyGUKtRSi7DIxGAE2?usp=sharing) 
+    - Los talleres estarán en GoogleClassroom  y en la [carpeta en Drive del curso.](https://drive.google.com/drive/folders/1qarcnN5hR8Ej5jjFyGUKtRSi7DIxGAE2?usp=sharing) 
 
 # Recomendaciones
+- Ver recomendaciones generales sobre cómo estudiar [aquí](/teaching/)
 - Organice bien su tiempo. El trabajo del curso puede ser abrumador si se deja para última hora.
 - Los proyectos están disponibles desde ya. Es bueno que se familiaricen y empiecen a trabajar desde temprano. 
 - Igualmente busquen grupo temprano. Estos proyectos son <ins>bastante trabajo para una sola persona.</ins> 
 - Los proyectos incluyen conocimientos de distintas disciplinas, luego es altamente recomendado que trabajen con gente de otras disciplinas.
 - La nota será asignada a las personas que estén escritas en el documento entregado.
 - Para los talleres se recomienda que trabajen en grupo pero que escriban las cosas de forma individual.
-- Es recomendable que **Verifiquen** sus respuestas con Python. Pueden usar CoCal + Jupyter para incluir el cálculo a mano y la verificación del ejercicio en un mismo documento.
+- Es recomendable que **Verifiquen** sus respuestas con Python. Pueden usar GoogleColab + Jupyter para incluir el cálculo a mano y la verificación del ejercicio en un mismo documento.
 - Durante las clases habrán algunos ejercicios muy cortos de verificación. Revisarlos es lo **mínimo** para seguir el curso. 
 - Usted debe leer el material del curso antes de las clases. 
 - Es altamente recomendable que esté familiarizado con el idioma Inglés puesto que:
@@ -67,15 +67,16 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
 
 # Recursos
 Este curso utilizará resultados y enfoques de distintos libros. 
-- **Texto guía:** Blanchard., Devaney.,Hall. Ecuaciones Diferenciales.
-- **Proyectos**  Boyce W., Brannan J.R., Differential equations: An Introduction to Modern Methods and Applications. Limusa Wiley.
-- **Proyectos**   Nagle K., Saff E., Ecuaciones diferenciales y problemas con valores en la frontera. Cuarta Edición. Pearson Educación.
--    Zill, D., Cullen, M. Ecuaciones diferenciales y problemas con valores en la frontera. Thompson
+- **Texto guía:** Boyce W., Brannan J.R. (2015), Differential equations: An Introduction to Modern Methods and Applications.  3rd Edition. Wiley.
+- **Proyectos**  Blanchard., Devaney.,Hall.(2011) Differential Equations. 4th Edition.
+- **Proyectos**   Nagle K., Saff E., (2018) Fundamentals of Differential Equations. 9th Edition. Pearson Education.
+-    Zill, D., Cullen, M. (2019). Differential Equations with Boundary Value Problems. 7th Edition. Thompson
 
 La herramienta computacional escogida para este curso es Python:
 -  Python: [anaconda](https://www.anaconda.com/products/individual) [Tutorial instalación en Windows](https://www.youtube.com/watch?v=YQu4OPmQ8Q0)
    -  MAC: utilizar brew. 
    -  Linux: utilizar gestor de paquetes de su distribución.
+   -  [Tutoriales](https://drive.google.com/drive/folders/1-cNsHTWosjvuEo8F7eOjHGevE88UzzoW?usp=sharing)
 - Python Online: 
     - [Google Colaboratory](https://colab.research.google.com)
     - [Repl.it](https://repl.it/languages) *Seleccionar Python*
@@ -85,6 +86,8 @@ La herramienta computacional escogida para este curso es Python:
    - [SymPy](https://docs.sympy.org/latest/tutorial/index.html): cálculo simbólico.
    - [Matplotlib](https://matplotlib.org/3.3.1/users/index.html): gráficos.
    - [SciPy](https://www.scipy.org/getting-started.html): computación científica. **AVANZADA**
+
+Si hicieron la instalación utilizando Anaconda, todas las librerías necesarias y Jupyter notebook ya vienen incluidos.
 
 Todas estas herramientas son libres y de código abierto.
 Las pueden usar libremente en su vida profesional.

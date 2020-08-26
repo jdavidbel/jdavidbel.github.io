@@ -24,7 +24,16 @@ pasts:
       year:    "2017-I"
       uni:     "Universidad Central"
       url:
+
 ---
+
+## To the student: 
+In this section I will include some readings and recommendations to improve how you learn and  how you can be more independent when learning.
+- ¿Cómo escribir matemáticas? por Dr. Kevin P. Lee. [Texto](https://drive.google.com/file/d/16ZX_W6Cavz5x3HQockBGEuJxnasIT7LM/view?usp=sharing) 
+- ¿Cómo enseñarse cosas? [Charla](https://drive.google.com/file/d/1y2O5BbvSUYCg_2iEKt-7VSOLdNASHV3Z/view?usp=sharing) 
+<br> Esta charla es un resumen (muy corto) de las herramientas que hay disponibles para el aprendizaje autónomo. El énfasis en es aprender matemáticas y/o programación, pero estas herramientas sirven para todo.
+
+- Tutoriales de Python [Videos y código](https://drive.google.com/drive/folders/1-cNsHTWosjvuEo8F7eOjHGevE88UzzoW?usp=sharing)
 
 ## Current
 {% assign thumbnail="left" %}
