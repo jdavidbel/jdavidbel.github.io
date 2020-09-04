@@ -10,10 +10,12 @@ title: Ecuaciones Diferenciales 2020-II
 <br> <ins>Horario:</ins> Mar - Jue 18:00 - 20:00
 <br> <ins>Docente:</ins> Alexander Leguizamón
 <br> <ins>Correo:</ins> [aleguizamonr@unal.edu.co](mailto:aleguizamonr@unal.edu.co)
-<br> <ins>Lugar:</ins> Google Meet  - [Link](https://meet.google.com/frk-sxee-xdf) 
+<br> <ins>Lugar:</ins> Google Meet  - [Link](https://meet.google.com/sjr-oore-xqh) 
 <br> <ins>Calendario:</ins> [Ver Archivo en Drive](https://docs.google.com/spreadsheets/d/1_MjxkVWJ-wF5PxZZYBbYpcTnrE9eyr_orTvKbwb7JBM/edit?usp=sharing])
+<br> <ins> Carpeta Drive:</ins> [Aquí](https://drive.google.com/drive/folders/0B4KGEZF4xfRsfnJyTHF3bWlnSXQ4QmtlaVJaRmpYSElkdFNZaTZhM1VBUlJHQ3prQ3Qta0E?usp=sharing)
 <br>
-**Actualizado**: 26 de Agosto 2020
+**Actualizado**: 04 de Septiembre de 2020
+
 # Descripción del curso
 Este es un curso de ecuaciones diferenciales para ingeniería.
 
@@ -24,9 +26,11 @@ Al terminar el curso, usted será capaz de:
 - Entender la importancia de las ecuaciones diferenciales como modelos matemáticos para interpretar y solucionar problemas físicos.
 
     El enfoque de este curso será distinto al de cursos anteriores. 
-    Al finalizar este curso usted debe conocer algunas de las herramientas computacionales y numéricas usadas en la práctica profesional para resolver ecuaciones diferenciales. 
-    Adicionalmente, usted va a adquirir las herramientas conceptuales y cualitativas para poder juzgar la validez de las respuestas obtenidas por computador.
-    Usted debe estar en capacidad de poner en contexto los conocimientos aprendidos. 
+    Usted no solo debe ser capaz de utilizar procedimientos analíticos, sino que también:
+
+- Al finalizar este curso usted debe conocer algunas de las herramientas computacionales y numéricas usadas en la práctica profesional para resolver ecuaciones diferenciales. 
+- Adicionalmente, usted va a adquirir las herramientas conceptuales y cualitativas para poder juzgar la validez de las respuestas obtenidas por computador.
+- Usted debe estar en capacidad de poner en contexto los conocimientos aprendidos. 
     Para ello usted tendrá asignadas algunas lecturas a lo largo del curso.
 
 # Evaluación
@@ -37,7 +41,7 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
 - 30% Proyectos: en grupos de 5 estudiantes. La rúbrica a usar estará en classroom.
     - 10% Proyecto 2.2 Libro Boyce (**24 de Septiembre**) 
     - 10% Proyecto 5.1 Libro Nagle (**29 de Octubre**) 
-    - 10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**)
+    - 10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**) (Si encuentran uno en SIMIODE que les interese me pueden comentar).
 - 20% Talleres (6)
     - El objetivo de los talleres es complementar la formación del curso guiándolos a la hora de construir, usar técnicas, y validar técnicas que pueden **no ser vistas en clase**.
     - Solo si entregan los 6 talleres se tendrán en cuenta las 5 mejores notas.
@@ -58,7 +62,7 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
 - Durante las clases habrán algunos ejercicios muy cortos de verificación. Revisarlos es lo **mínimo** para seguir el curso. 
 - Usted debe leer el material del curso antes de las clases. 
 - Es altamente recomendable que esté familiarizado con el idioma Inglés puesto que:
-    - Es indispensable para su vida profesional (puede incluso ser más importante que los conocimientos técnicos)
+    - Es indispensable para su vida profesional (puede incluso ser más importante que los conocimientos técnicos).
     - Es difícil encontrar versiones traducidas de los libros guía.
     - Las lecturas estarán en Inglés.
 - Es recomendable que usted se familiarice con LaTeX:
@@ -66,12 +70,15 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
     - Bono en los proyectos por estar hechos en LaTeX (+0.5).
 
 # Recursos
+
+## Textos
 Este curso utilizará resultados y enfoques de distintos libros. 
 - **Texto guía:** Boyce W., Brannan J.R. (2015), Differential equations: An Introduction to Modern Methods and Applications.  3rd Edition. Wiley.
 - **Proyectos**  Blanchard., Devaney.,Hall.(2011) Differential Equations. 4th Edition.
 - **Proyectos**   Nagle K., Saff E., (2018) Fundamentals of Differential Equations. 9th Edition. Pearson Education.
 -    Zill, D., Cullen, M. (2019). Differential Equations with Boundary Value Problems. 7th Edition. Thompson
 
+## Computación
 La herramienta computacional escogida para este curso es Python:
 -  Python: [anaconda](https://www.anaconda.com/products/individual) [Tutorial instalación en Windows](https://www.youtube.com/watch?v=YQu4OPmQ8Q0)
    -  MAC: utilizar brew. 
@@ -92,11 +99,18 @@ Si hicieron la instalación utilizando Anaconda, todas las librerías necesarias
 Todas estas herramientas son libres y de código abierto.
 Las pueden usar libremente en su vida profesional.
 
+Si buscan más ideas para hacer proyectos pueden mirar:
+- [SIMIODE](https://simiode.org/): es una página donde hay distintos conceptos de ecuaciones diferenciales explicados mediante modelos y por gente de todo el mundo. 
+    - [Competencia estudiantil SCUDEM](https://www.simiode.org/scudem/2020): parte de SIMIODE. Van a competir como grupo de estudiantes modelando un problema de ecuaciones diferenciales.
+-  [Competencia IBM](https://developer.ibm.com/es/maraton/): competencia de desarrollo de software. Pueden usar lo que se ve en el curso para construir algo chévere.
+
 - Para complementar su formación es importante que usted lea las lecturas que se van a dejar a lo largo del curso. Estas lecturas estarán en Classroom.
 
 - Otras herramientas:
    - [DField& PPlane](https://math.rice.edu/~dfield/)
     - [Curso MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
+
+## Escritura
 - LaTeX:
     - [Tutoriales Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
     - Para usar Latex en línea: [Overleaf](https://www.overleaf.com/)
