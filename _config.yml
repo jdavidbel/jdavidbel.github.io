@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alexander LR
-email: aleguizamonr@unal.edu.co
+title: J. David Beltrán
+email: jobeltranl@unal.edu.co
 description: 
 #Powered by <a href="http://jekyllthemes.org/themes/svm-ngvb/">Steve's NGVB theme.</a>
 >- # this means to ignore newlines until "baseurl:"
@@ -22,9 +22,9 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: alexaleg
-github_username:  alexaleg
-orcid_username: https://orcid.org/0000-0002-4718-0825
-linkedin_username: aleguizamonr
+github_username:  jdavidbel
+#orcid_username: https://orcid.org/0000-0002-4718-0825
+#linkedin_username: aleguizamonr
 # Build settings
 markdown: kramdown
 theme: minima
