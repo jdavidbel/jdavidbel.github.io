@@ -3,7 +3,7 @@ layout: page
 title:  Contact 
 permalink: /contact/
 ---
-Email: [jobeltranl@unal.edu.co](mailto:aleguizamonr@unal.edu.co)
+Email: [jobeltranl@unal.edu.co](mailto:jobeltranl@unal.edu.co)
 <br />
 [LinkedIn](https://linkedin.com/aleguizamonr) 
 <br />
