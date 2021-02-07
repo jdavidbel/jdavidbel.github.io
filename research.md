@@ -20,8 +20,8 @@ books:
       url:     "https://www.uneditorial.com/analisis-y-simulacion-de-procesos-en-ingenieria-quimica-ingenieria-en-general-1.htmlhttps://www.springer.com/gp/book/9783319148113"
       <>doi:     "http://dx.doi.org/10.1007/978-3-319-14812-0"
 pubs:
-    - title:   "Control of an azeotropic distillation process to acetonitrile production"
-      author:  "Ruiz, A., Borda, N., Leguizamón, A., Guevara, J. R., Gil C., I.D."
+    - title:   "Global Lipschitz Continuous solutions for a linearly damped p-system"
+      author:  "Beltrán, J., Rendón, L."
       journal: "Computer Aided Chemical Engineering"
       note:    "Volume 29, Pages 833-838"
       year:    "2011"
@@ -33,34 +33,5 @@ pubs:
 
 ---
 
-## Publications
-{% assign thumbnail="left" %}
-
-{% for pub in page.pubs %}
-{% if pub.image %}
-{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
-{% endif %}
-[**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
-{{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
-{% if pub.media %}<br />URL: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-
-{% endfor %}
-## Books 
-
-{% assign thumbnail="left" %}
-
-{% for book in page.books %}
-{% if book.image %}
-{% include image.html url=book.image caption="" height="100px" align=thumbnail %}
-{% endif %}
-[**{{book.title}}**]({% if book.internal %}{{book.url | prepend: site.baseurl}}{% else %}{{book.url}}{% endif %})<br />
-{{book.author}}<br />
-*{{book.journal}}*
-{% if book.note %} *({{book.note}})*
-{% endif %} *{{book.year}}* {% if book.doi %}[[doi]({{book.doi}})]{% endif %}
-{% if book.media %}<br />URL: {% for article in book.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-
-{% endfor %}
+## Master thesis
+[Global Lipschitz Continuous Solutions for a Linearly Damped p-system](https://drive.google.com/file/d/1_P64kWlYtXpNycHJo2yXcU1vP3zbvkrr/view?usp=sharing). Beltrán, J.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
