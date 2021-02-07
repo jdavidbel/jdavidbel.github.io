@@ -3,15 +3,13 @@ layout: page
 title: CV 
 permalink: /cv/
 ---
-PDF in [Spanish](https://drive.google.com/open?id=1AOvXXzBRGvGJEjhsJCvJ5hZqfZhCQjid).
+PDF in [Spanish](https://drive.google.com/file/d/10lxIfWi3w2f4vkrpq0uMvIS50gDtsoTU/view?usp=sharing).
 
-PDF in English (Coming soon)
+PDF in [English] (https://drive.google.com/file/d/11tmCgI7HBp8ZZxy3zHvLBFeCtniIOC3u/view?usp=sharing).
 ## Education
 MSc Mathematical Sciences - Universidad Nacional de Colombia - Sede Bogotá
 
-MSc Chemical Engineering - Norwegian University of Science and Technology - Trondheim
-
-BEng Chemical Engineering - Universidad Nacional de Colombia - Sede Bogotá
+Mathematician - Universidad Distrital Francisco José de Caldas.
 
 ## Events 
 02 - 13 Dic, **2019 International School and Conference in Poisson Geometry**, Participant, IMPA, Río de Janeiro. Brasil.
@@ -25,24 +23,11 @@ BEng Chemical Engineering - Universidad Nacional de Colombia - Sede Bogotá
 5 - 8, Junio, **2016 DYCOPS-CAB Conference (Conferencia de control de procesos)**, Volunteer, NTNU, Trondheim. Norway.
 
 ## Awards 
-2020 - **Teaching Assistantship**, Universidad Nacional de Colombia
 
-2019 - **Academic Rights Exception Fellowship**, Universidad Nacional de Colombia
-
-2016 - **Bronce medal**, International Genetic Engineered Machine Competition (iGem)
-
-2014 - **Colfuturo Fellowship**, Programa Crédito Beca. Fundación para el futuro de Colombia
+2018-2020 - **Academic Rights Exception Fellowship**, Universidad Nacional de Colombia
 
 ## Languages
 - Spanish (Native)
 - English (C1)
-- Norwegian (B1)
-- German (B1)
 
-## Programming Languages
-In decreasing order of expertise:
-- Python
-- MATLAB/Octave
-- C++
-- SageMaths
-- Julia
+
