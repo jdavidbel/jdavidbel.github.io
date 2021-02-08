@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: alexaleg
 github_username:  jdavidbel
 orcid_username: J. David Beltrán
-#linkedin_username: aleguizamonr
+linkedin_username: aleguizamonr
 # Build settings
 markdown: kramdown
 theme: minima
