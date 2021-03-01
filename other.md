@@ -1,15 +1,6 @@
 ---
 layout: page
-title: Interesting Stuff 
+title: Other 
 permalink: /Other/
 ---
 
-Here is a list of things that I find interesting/useful.
-
-Software
-
-Sites
-
-Interesting people.
-
-Other interests.
