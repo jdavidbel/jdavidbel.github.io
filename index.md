@@ -13,3 +13,4 @@ My thesis is related to weak convergence methods applied to non-linear hyperboli
 [Contact](/contact/)
 
 
+The strange furry object in my profile picture is my cat's tail.
