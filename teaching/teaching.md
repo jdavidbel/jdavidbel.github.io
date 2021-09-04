@@ -8,27 +8,10 @@ curs:
       year:    "2021-II"
       uni:     "Universidad Nacional de Colombia Sede Bogotá"
       url:     "/teaching/2021icd/" 
-pasts:
-    - title:   "Ecuaciones Diferenciales"
-      <>note:  "In Spanish"
-      year:    "2020-II"
-      uni:     "Universidad Nacional de Colombia Sede Bogotá"
-      url:     "/teaching/2020iiecdif/" 
-    - title:   "Ecuaciones Diferenciales"
-      <>note:  "In Spanish"
-      year:    "2020-I"
-      uni:     "Universidad Nacional de Colombia Sede Bogotá"
-      url:     https://sites.google.com/unal.edu.co/ecdif-2020i/
-    - title:   "Química I"
-      <>note:  ""
-      year:    "2017-I to 2019-I"
-      uni:     "Universidad Central"
-      url:
-    - title:   "Fisicoquímica I"
-      <>note:  ""
-      year:    "2017-I"
-      uni:     "Universidad Central"
-      url:
+	- title :  "Mathematics for the Biological Sciences"
+	  year:    "Fall 2021"
+	  uni:     "The University of Iowa"
+	  url:     "/teaching/2020ii/eqdiff"
 
 ---
 
