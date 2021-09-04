@@ -7,12 +7,10 @@ curs:
 	  code:    "MATH1550:0134"
       year:    "Fall 2021"
       uni:     "The University of Iowa"
-      url:     "/teaching/2020iieqdiff/" 
 	- title:   "Mathematics for the Biological Sciences"
 	  code:    "MATH1440:0A17"
 	  year:    "Fall 2021"
 	  uni:     "The University of Iowa"
-	  url:     "/teaching/2020ii/1550/"
 pasts:
     - title:   "Ecuaciones Diferenciales"
       <>note:  "In Spanish"
