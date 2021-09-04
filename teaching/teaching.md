@@ -18,18 +18,7 @@ pasts:
       <>note:  "In English"
       year:    "Fall 2021"
       uni:     "The University of Iowa"
-      url:     https://sites.google.com/unal.edu.co/ecdif-2020i/
-    - title:   ""
-      <>note:  ""
-      year:    ""
-      uni:     ""
-      url:
-    - title:   ""
-      <>note:  ""
-      year:    ""
-      uni:     ""
-      url:
-
+      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=149667&id=941277
 ---
 
 ## To the student: 
