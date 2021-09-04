@@ -7,7 +7,7 @@ PDF in [Spanish](https://drive.google.com/file/d/10lxIfWi3w2f4vkrpq0uMvIS50gDtso
 
 PDF in [English](https://drive.google.com/file/d/11tmCgI7HBp8ZZxy3zHvLBFeCtniIOC3u/view?usp=sharing).
 ## Education
-MSc Mathematical Sciences - Universidad Nacional de Colombia - Sede Bogotá
+MSc Mathematical Sciences - Universidad Nacional de Colombia - Sede Bogotá.
 
 Mathematician - Universidad Distrital Francisco José de Caldas.
 
@@ -24,8 +24,8 @@ Mathematician - Universidad Distrital Francisco José de Caldas.
 
 02 - 04 Dec 2015, **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
 ## Awards 
-
-2018-2020 - **Academic Rights Exception Fellowship**, Universidad Nacional de Colombia
+2021-present **  Teaching Assistantship position**, The University of Iowa. 
+2018-2020 - **Academic Rights Exception Fellowship**, Universidad Nacional de Colombia.
 
 ## Languages
 - Spanish (Native)
