@@ -24,7 +24,8 @@ Mathematician - Universidad Distrital Francisco José de Caldas.
 
 02 - 04 Dec 2015, **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
 ## Awards 
-2021-present **  Teaching Assistantship position**, The University of Iowa. 
+2021-present - **Teaching Assistantship position**, The University of Iowa. 
+
 2018-2020 - **Academic Rights Exception Fellowship**, Universidad Nacional de Colombia.
 
 ## Languages
