@@ -1,19 +1,14 @@
 ---
 layout: page
 permalink: /teaching/ecdif2020ii/
-title: Ecuaciones Diferenciales 2020-II
+title: Engineer Math I Single Variable Calculus Fall 2021
 ---
 ![](/teaching/2020ii/img/Chaos.jpg)
-<br> <ins>Nombre:</ins> Ecuaciones Diferenciales
-<br> <ins>Código:</ins> 1000007-B
-<br> <ins>Grupo:</ins> 12
-<br> <ins>Horario:</ins> Mar - Jue 18:00 - 20:00
-<br> <ins>Docente:</ins> Alexander Leguizamón
-<br> <ins>Correo:</ins> [aleguizamonr@unal.edu.co](mailto:aleguizamonr@unal.edu.co)
-<br> <ins>Lugar:</ins> Google Meet  - [Link](https://meet.google.com/sjr-oore-xqh) 
-<br> <ins>Calendario:</ins> [Ver Archivo en Drive](https://docs.google.com/spreadsheets/d/1_MjxkVWJ-wF5PxZZYBbYpcTnrE9eyr_orTvKbwb7JBM/edit?usp=sharing])
-<br> <ins> Carpeta Drive:</ins> [Aquí](https://drive.google.com/drive/folders/0B4KGEZF4xfRsfnJyTHF3bWlnSXQ4QmtlaVJaRmpYSElkdFNZaTZhM1VBUlJHQ3prQ3Qta0E?usp=sharing)
-<br>
+<br> <ins>Name:</ins> Engineer Math I Single Variable Calculus
+<br> <ins>Code:</ins> MATH1550:0134
+<br> <ins> MWF - 2:00 PM - 2:50 PM
+<br> <ins>Course Supervisor :</ins> Prof. Cynthia Farthing.
+
 **Actualizado**: 04 de Septiembre de 2020
 
 # Descripción del curso
