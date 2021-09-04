@@ -3,31 +3,31 @@ layout: page
 permalink: /teaching/
 title: Teaching
 curs:
-    - title:   "Cálculo Diferencial"
-      <>note:  "In Spanish"
-      year:    "2021-II"
-      uni:     "Universidad Nacional de Colombia Sede Bogotá"
-      url:     "/teaching/2021icd/" 
+    - title:   "Engineering Math I Single Variable Calculus"
+      <>note:  "In English"
+      year:    "Fall 2021"
+      uni:     "The University of Iowa"
+      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=155573&id=941316
 pasts:
-    - title:   "Ecuaciones Diferenciales"
-      <>note:  "In Spanish"
-      year:    "2020-II"
-      uni:     "Universidad Nacional de Colombia Sede Bogotá"
-      url:     "/teaching/2020iiecdif/" 
-    - title:   "Ecuaciones Diferenciales"
-      <>note:  "In Spanish"
-      year:    "2020-I"
-      uni:     "Universidad Nacional de Colombia Sede Bogotá"
+    - title:   "Engineering Math I Single Variable Calculus"
+      <>note:  "In English"
+      year:    "Fall 2021"
+      uni:     "The University of Iowa"
+      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=155573&id=941316 
+    - title:   "Mathematics for the Biological Sciences"
+      <>note:  "In English"
+      year:    "Fall 2021"
+      uni:     "The University of Iowa"
       url:     https://sites.google.com/unal.edu.co/ecdif-2020i/
-    - title:   "Química I"
+    - title:   ""
       <>note:  ""
-      year:    "2017-I to 2019-I"
-      uni:     "Universidad Central"
+      year:    ""
+      uni:     ""
       url:
-    - title:   "Fisicoquímica I"
+    - title:   ""
       <>note:  ""
-      year:    "2017-I"
-      uni:     "Universidad Central"
+      year:    ""
+      uni:     ""
       url:
 
 ---
@@ -51,7 +51,7 @@ In this section I will include some readings and recommendations to improve how 
 {% endif %}
 {% endfor %}
 
-## Past 
+## Current 
 {% for past in page.pasts %}
 [**{{past.title}}**]({% if past.internal %}{{past.url | prepend: site.baseurl}}{% else %}{{past.url}}{% endif %})<br />
 {{past.uni}}<br />
