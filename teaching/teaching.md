@@ -40,16 +40,6 @@ In this section I will include some readings and recommendations to improve how 
 
 - Tutoriales de Python [Videos y código](https://drive.google.com/drive/folders/1-cNsHTWosjvuEo8F7eOjHGevE88UzzoW?usp=sharing)
 
-## Current
-{% assign thumbnail="left" %}
-
-{% for cur in page.curs %}
-[**{{cur.title}}**]({% if cur.internal %}{{cur.url | prepend: site.baseurl}}{% else %}{{cur.url}}{% endif %})<br />
-{{cur.uni}}<br />
-*{{cur.year}}*
-{% if cur.note %} *({{cur.note}})*
-{% endif %}
-{% endfor %}
 
 ## Current 
 {% for past in page.pasts %}
