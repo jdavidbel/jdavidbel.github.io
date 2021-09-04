@@ -21,13 +21,11 @@ pasts:
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=149667&id=941277
 ---
 
-## To the student: 
-In this section I will include some readings and recommendations to improve how you learn and  how you can be more independent when learning.
-- ¿Cómo escribir matemáticas? por Dr. Kevin P. Lee. [Texto](https://drive.google.com/file/d/16ZX_W6Cavz5x3HQockBGEuJxnasIT7LM/view?usp=sharing) 
-- ¿Cómo enseñarse cosas? [Charla](https://drive.google.com/file/d/1scFYa1vfBog3Il0icdKs0MjSdB5pwipq/view?usp=sharing) 
-<br> Esta charla es un resumen (muy corto) de las herramientas que hay disponibles para el aprendizaje autónomo. El énfasis en es aprender matemáticas y/o programación, pero estas herramientas sirven para todo.
-
-- Tutoriales de Python [Videos y código](https://drive.google.com/drive/folders/1-cNsHTWosjvuEo8F7eOjHGevE88UzzoW?usp=sharing)
+## Teaching responsabilities: 
+I am a teaching assistant in the courses listed below. I'm responsible to lead discussion sections that are intented to complement
+the weekly lectures that students attend in their respective courses. During the discussion sections important concepts of the courses are reviewed,
+students work in groups to discuss and solve problems related to the topics of their courses and they have the opportunity to ask for clarifications and
+ask for guidance to complete their assignments. 
 
 
 ## Current 
