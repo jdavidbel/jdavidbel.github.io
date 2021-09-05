@@ -23,9 +23,9 @@ pasts:
 
 ## Teaching responsabilities: 
 I am a teaching assistant in the courses listed below. I'm responsible to lead discussion sections that are intented to complement
-the weekly lectures that students attend in their respective courses. During the discussion sections important concepts of the courses are reviewed,
+the weekly lectures that students attend. During the discussion sections important concepts are reviewed,
 students work in groups to discuss and solve problems related to the topics of their courses and they have the opportunity to ask for clarifications and
-ask for guidance to complete their assignments. 
+guidance to complete their assignments. 
 
 
 ## Current 
