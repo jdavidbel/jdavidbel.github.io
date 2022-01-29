@@ -3,11 +3,11 @@ layout: page
 permalink: /teaching/
 title: Teaching
 curs:
-    - title:   "Engineering Math I Single Variable Calculus"
+    - title:   "Engineering Math II Multivariable Calculus"
       <>note:  "In English"
-      year:    "Fall 2021"
+      year:    "Spring 2022"
       uni:     "The University of Iowa"
-      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=155573&id=941316
+      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
 pasts:
     - title:   "Engineering Math I Single Variable Calculus"
       <>note:  "In English"
@@ -27,8 +27,13 @@ the weekly lectures that students attend. During the discussion sections importa
 students work in groups to discuss and solve problems related to the topics of their courses and they have the opportunity to ask for clarifications and
 guidance to complete their assignments. 
 
+## Current
+{% assign thumbnail="left" %}
 
-## Current 
+{% for cur in page.curs %} [{{cur.title}}]({% if cur.internal %}{{cur.url | prepend: site.baseurl}}{% else %}{{cur.url}}{% endif %})
+{{cur.uni}}
+{{cur.year}} {% if cur.note %} ({{cur.note}}) {% endif %} {% endfor %}
+## Past
 {% for past in page.pasts %}
 [**{{past.title}}**]({% if past.internal %}{{past.url | prepend: site.baseurl}}{% else %}{{past.url}}{% endif %})<br />
 {{past.uni}}<br />
