@@ -37,8 +37,8 @@ pubs:
 [Global Lipschitz Continuous Solutions for a Linearly Damped p-system](https://drive.google.com/file/d/1_P64kWlYtXpNycHJo2yXcU1vP3zbvkrr/view?usp=sharing). Beltrán, J.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
 
 ## Seminars
-I'm currently participating in the [PDE Seminar](https://math.uiowa.edu/seminars/pde) of The University of Iowa headed by [Professor Tong Li](http://homepage.divms.uiowa.edu/~tli/)
-We usually have weekly meetings on Wednesday 15:30 -16:20 (Central Time) via Zoom. A complete description of the talks can be found [Here](https://math.uiowa.edu/seminars/pde)
+I'm currently participating in the [PDE Seminar](https://math.uiowa.edu/seminars/pde) of The University of Iowa headed by [Professor Tong Li](http://homepage.divms.uiowa.edu/~tli/).
+We usually have weekly meetings on Wednesdays 15:30 -16:20 (Central Time) via Zoom. A complete description of the talks can be found [Here](https://math.uiowa.edu/seminars/pde).
 ## Seminars (past).
 This semester (March - July 2021) we are running a student seminar called "Conservation Laws and Partial Differential Equations" (in Spanish) headed by [Professor Leonardo Rendón](https://scholar.google.com/citations?user=5U0ZQxcAAAAJ&hl=es) from the National University of Colombia.
 [Here](https://drive.google.com/file/d/1-OGxeZ2FeTFvqHLiSpzutyo5IA7l0v2W/view?usp=sharing) you can find a brief description (in Spanish) of the topics we will be covering this semester. 
