@@ -26,6 +26,17 @@ I am a teaching assistant in the courses listed below. I'm responsible to lead d
 the weekly lectures that students attend. During the discussion sections important concepts are reviewed,
 students work in groups to discuss and solve problems related to the topics of their courses and they have the opportunity to ask for clarifications and
 guidance to complete their assignments. 
+## Current 2
+{% for cur in page.curs %}
+[**{{cur.title}}**]({% if cur.internal %}{{cur.url | prepend: site.baseurl}}{% else %}{{cur.url}}{% endif %})<br />
+{{cur.uni}}<br />
+*{{cur.year}}*
+{% if cur.note %} *({{cur.note}})*
+{% endif %}
+{% endfor %}
+
+
+
 
 ## Current
 {% assign thumbnail="left" %}
