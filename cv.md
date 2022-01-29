@@ -3,9 +3,9 @@ layout: page
 title: CV 
 permalink: /cv/
 ---
-PDF in [Spanish](https://drive.google.com/file/d/10lxIfWi3w2f4vkrpq0uMvIS50gDtsoTU/view?usp=sharing).
+<!-- PDF in [Spanish](https://drive.google.com/file/d/10lxIfWi3w2f4vkrpq0uMvIS50gDtsoTU/view?usp=sharing).-->
 
-PDF in [English](https://drive.google.com/file/d/11tmCgI7HBp8ZZxy3zHvLBFeCtniIOC3u/view?usp=sharing).
+<!-- PDF in [English](https://drive.google.com/file/d/11tmCgI7HBp8ZZxy3zHvLBFeCtniIOC3u/view?usp=sharing). -->
 ## Education
 MSc Mathematical Sciences - Universidad Nacional de Colombia - Sede Bogotá.
 
