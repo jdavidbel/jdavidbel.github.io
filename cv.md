@@ -7,7 +7,7 @@ permalink: /cv/
 
 <!-- PDF in [English](https://drive.google.com/file/d/11tmCgI7HBp8ZZxy3zHvLBFeCtniIOC3u/view?usp=sharing). -->
 ## Education
-MSc Mathematical Sciences - Universidad Nacional de Colombia - Sede Bogotá.
+MSc Mathematics - Universidad Nacional de Colombia - Sede Bogotá.
 
 Mathematician - Universidad Distrital Francisco José de Caldas.
 
