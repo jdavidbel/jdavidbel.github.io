@@ -9,12 +9,6 @@ curs:
       uni:     "The University of Iowa"
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
 pasts:
-	- title:   "Engineering Math II: Multivariable Calculus"
-      <>note:  "In English"
-      year:    "Spring 2022"
-      uni:     "The University of Iowa"
-      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
-	  
     - title:   "Engineering Math I: Single Variable Calculus"
       <>note:  "In English"
       year:    "Fall 2021"
@@ -25,6 +19,12 @@ pasts:
       year:    "Fall 2021"
       uni:     "The University of Iowa"
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=149667&id=941277
+	  
+	- title:   "Engineering Math II: Multivariable Calculus"
+      <>note:  "In English"
+      year:    "Spring 2022"
+      uni:     "The University of Iowa"
+      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
 ---
 
 ## Teaching responsabilities: 
