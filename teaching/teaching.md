@@ -14,16 +14,16 @@ pasts:
       year:    "Fall 2021"
       uni:     "The University of Iowa"
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=155573&id=941316 
-	- title:   "Engineering Math II: Multivariable Calculus"
-	  <>note:  "In English"
-	  year:    "Fall 2022"
-	  uni:     "The University of Iowa"
-	  url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
     - title:   "Mathematics for the Biological Sciences"
       <>note:  "In English"
       year:    "Fall 2021"
       uni:     "The University of Iowa"
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=149667&id=941277
+	- title:   "Engineering Math II: Multivariable Calculus"
+	  <>note:  "In English"
+	  year:    "Fall 2022"
+	  uni:     "The University of Iowa"
+	  url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
 ---
 
 ## Teaching responsabilities: 
