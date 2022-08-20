@@ -13,7 +13,7 @@ pasts:
 	  <>note:  "In English"
 	  year:	   "Spring 2022"
 	  uni:	   "The University of Iowa"
-	  url:	   "https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716"
+	  url:	   https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
     - title:   "Engineering Math I: Single Variable Calculus"
       <>note:  "In English"
       year:    "Fall 2021"
