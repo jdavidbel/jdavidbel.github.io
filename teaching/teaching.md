@@ -8,13 +8,11 @@ curs:
       year:    "Fall 2022"
       uni:     "The University of Iowa"
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716
-	  
-	- title:   "Engineering Math I: Single Variable Calculus"
+	- title:   "Engineering Math Iii: Single Variable Calculus"
       <>note:  "In English"
       year:    "Fall 2021"
       uni:     "The University of Iowa"
-      url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=155573&id=941316
-	
+      url:     https://math.stackexchange.com/
 pasts:
     - title:   "Engineering Math I: Single Variable Calculus"
       <>note:  "In English"
