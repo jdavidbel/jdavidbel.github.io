@@ -27,7 +27,7 @@ the weekly lectures that students attend. During the discussion sections importa
 students work in groups to discuss and solve problems related to the topics of their courses and they have the opportunity to ask for clarifications and
 guidance to complete their assignments. 
 
- - [Experiment](https://math.stackexchange.com/) what if we try to do something like this
+ - [Experiment](https://math.stackexchange.com/) what if we try to do something like this <br /> Ocho
  
  Fall 2022
  - Otra cosa
