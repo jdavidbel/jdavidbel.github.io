@@ -28,8 +28,10 @@ students work in groups to discuss and solve problems related to the topics of t
 guidance to complete their assignments. 
 
  - [Experiment](https://math.stackexchange.com/) what if we try to do something like this
+ 
  Fall 2022
  - Otra cosa
+ 
 ## Current
 {% for cur in page.curs %}
 [**{{cur.title}}**]({% if cur.internal %}{{cur.url | prepend: site.baseurl}}{% else %}{{cur.url}}{% endif %})<br />
