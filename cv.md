@@ -7,11 +7,20 @@ permalink: /cv/
 
 <!-- PDF in [English](https://drive.google.com/file/d/11tmCgI7HBp8ZZxy3zHvLBFeCtniIOC3u/view?usp=sharing). -->
 ## Education
-MSc Mathematics - Universidad Nacional de Colombia - Sede Bogotá.
+(2021- Present) PhD. Mathematics - The University of Iowa.
 
-Mathematician - Universidad Distrital Francisco José de Caldas.
+(2019-2020) MSc Mathematics - Universidad Nacional de Colombia - Sede Bogotá.
 
-## Academic Events 
+(2012 - 2018) Mathematician - Universidad Distrital Francisco José de Caldas.
+
+## Seminars-Conferences
+
+22 Oct 2022, **2022 Iowa PDE Conference**, Speaker, The University of Iowa, Iowa City, IA-USA.
+
+15 - 16 Oct 2022, **The 86th Midwest PDE Seminar**, Participant, The University of Missouri, Columbia, MO-USA-.
+
+30 Oct 2021, **2021 Iowa PDE Seminar**, Participant, Iowa State University, Ames, IA-USA.
+
 14 - 22 Oct 2019, **Spring School in Analysis and Mathematical Physcis**, Participant, Pontificia Universidad Católica de Chile, Santiago. Chile.
 
 04 - 05 Oct 2019 **Workshop on Optimization Methods and Applied Mathematics** Participant, Universidad Nacional de Colombia, Bogotá. Colombia.
@@ -23,6 +32,7 @@ Mathematician - Universidad Distrital Francisco José de Caldas.
 06 - 08 May 2015, **V Encuentro Nacional de Matemáticas y Estadística**, Poster presenter, Universidad del Tolima. Neiva, Colombia.
 
 02 - 04 Dec 2015, **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
+
 ## Awards 
 2021-present - **Teaching Assistantship position**, The University of Iowa. 
 
