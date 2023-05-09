@@ -34,8 +34,8 @@ pubs:
 ---
 
 ## Master thesis
-[Global Lipschitz Continuous Solutions for a Linearly Damped p-system](https://drive.google.com/file/d/1_P64kWlYtXpNycHJo2yXcU1vP3zbvkrr/view?usp=sharing). Beltrán, J.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
-
+Global Lipschitz Continuous Solutions for a Linearly Damped p-system. Beltrán, J.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
+<!-- (https://drive.google.com/file/d/1_P64kWlYtXpNycHJo2yXcU1vP3zbvkrr/view?usp=sharing) -->
 ## Seminars
 I'm currently participating in the [PDE Seminar](https://math.uiowa.edu/seminars/pde) of The University of Iowa headed by [Professor Tong Li](http://homepage.divms.uiowa.edu/~tli/).
 We usually have weekly meetings on Wednesdays 15:30 -16:20 (Central Time) via Zoom. A complete description of the talks can be found [Here](https://math.uiowa.edu/seminars/pde).
