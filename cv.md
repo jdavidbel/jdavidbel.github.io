@@ -11,9 +11,12 @@ permalink: /cv/
 
 (2019-2020) MSc Mathematics - Universidad Nacional de Colombia - Sede Bogotá.
 
-(2012 - 2018) Mathematician - Universidad Distrital Francisco José de Caldas.
+(2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
 
 ## Seminars-Conferences
+05-07 May 2023 **87th Midwest PDE Seminar**, Participant, University of Notre Dame, Notre Dame, IN-USA.
+
+21-22 Apr 2023 **7th KUMUNU-ISU Conference in PDE, Dynamical Systems and Applications**, Participant, Iowa State University, Ames, IA-USA.
 
 22 Oct 2022, **2022 Iowa PDE Conference**, Speaker, The University of Iowa, Iowa City, IA-USA.
 
