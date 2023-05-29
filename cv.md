@@ -14,6 +14,8 @@ permalink: /cv/
 (2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
 
 ## Seminars-Conferences
+29-31 May 2023 **Encuentro Latinoamericano de Estudiantes en Modelamiento, Ingeniería y Ciencias**, Speaker, Universidad de Chile, Santiago - Chile.
+
 05-07 May 2023 **87th Midwest PDE Seminar**, Participant, University of Notre Dame, Notre Dame, IN-USA.
 
 21-22 Apr 2023 **7th KUMUNU-ISU Conference in PDE, Dynamical Systems and Applications**, Participant, Iowa State University, Ames, IA-USA.
@@ -24,13 +26,13 @@ permalink: /cv/
 
 30 Oct 2021, **2021 Iowa PDE Seminar**, Participant, Iowa State University, Ames, IA-USA.
 
-14 - 22 Oct 2019, **Spring School in Analysis and Mathematical Physcis**, Participant, Pontificia Universidad Católica de Chile, Santiago. Chile.
+14 - 22 Oct 2019, **Spring School in Analysis and Mathematical Physics**, Participant, Pontificia Universidad Católica de Chile, Santiago. Chile.
 
 04 - 05 Oct 2019 **Workshop on Optimization Methods and Applied Mathematics** Participant, Universidad Nacional de Colombia, Bogotá. Colombia.
 
 04 - 07 June 2019, **V Taller de Análisis no-lineal y Ecuaciones Diferenciales Parciales**, Poster presenter, Universidad Nacional de Colombia, Bogotá. Colombia.
 
-26 Nov - 01 Dec 2017, **International Conference on Applied Mathematics and Informatics** , Poster presenter, Sand Andrés. Colombia.
+26 Nov - 01 Dec 2017, **International Conference on Applied Mathematics and Informatics** , Poster presenter, San Andrés. Colombia.
 
 06 - 08 May 2015, **V Encuentro Nacional de Matemáticas y Estadística**, Poster presenter, Universidad del Tolima. Neiva, Colombia.
 
