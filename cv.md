@@ -14,9 +14,9 @@ permalink: /cv/
 (2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
 
 ## Seminars-Conferences
-29-31 May 2023 **Encuentro Latinoamericano de Estudiantes en Modelamiento, Ingeniería y Ciencias**, Speaker, Universidad de Chile, Santiago - Chile.
+29-31 May 2023 **Encuentro Latinoamericano de Estudiantes de Doctorado en Modelamiento, Ingeniería y Ciencias**, Speaker, Centro de Modelamiento Matemático - Universidad de Chile, Santiago - Chile.
 
-05-07 May 2023 **87th Midwest PDE Seminar**, Participant, University of Notre Dame, Notre Dame, IN-USA.
+05-07 May 2023 **The 87th Midwest PDE Seminar**, Participant, University of Notre Dame, Notre Dame, IN-USA.
 
 21-22 Apr 2023 **7th KUMUNU-ISU Conference in PDE, Dynamical Systems and Applications**, Participant, Iowa State University, Ames, IA-USA.
 
@@ -41,7 +41,7 @@ permalink: /cv/
 ## Awards 
 2021-present - **Teaching Assistantship position**, The University of Iowa. 
 
-2018-2020 - **Academic Rights Exception Fellowship**, Universidad Nacional de Colombia.
+2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia.
 
 ## Languages
 - Spanish (Native)
