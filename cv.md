@@ -14,6 +14,8 @@ permalink: /cv/
 (2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
 
 ## Seminars-Conferences
+05-08 June 2023 **XXIII Congreso Colombiano de Matemáticas**, Poster presenter, Universidad Pedagógica y Tecnológica de Colombia, Tunja-Colombia.
+
 29-31 May 2023 **Encuentro Latinoamericano de Estudiantes de Doctorado en Modelamiento, Ingeniería y Ciencias**, Speaker, Centro de Modelamiento Matemático - Universidad de Chile, Santiago - Chile.
 
 05-07 May 2023 **The 87th Midwest PDE Seminar**, Participant, University of Notre Dame, Notre Dame, IN-USA.
