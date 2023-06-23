@@ -41,7 +41,9 @@ permalink: /cv/
 02 - 04 Dec 2015, **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
 
 ## Awards 
-2021-present - **Teaching Assistantship position**, The University of Iowa. 
+2023 - Present **Erwin and Peggy Kleinfeld Scholar**, The University of Iowa.
+
+2021-Present - **Teaching Assistantship position**, The University of Iowa. 
 
 2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia.
 
