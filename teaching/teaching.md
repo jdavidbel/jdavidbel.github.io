@@ -31,12 +31,15 @@ guidance to complete their assignments.
  
 ## Current
 
- - **[Introduction to Partial Differential Equations](https://myui.uiowa.edu/my-ui/courses/details.page?ci=149697&id=980060)** <br /> 
- Spring 2023 <br /> The University of Iowa.
+- **[College Algebra](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=994167)** <br /> 
+ Fall 2023 <br /> The University of Iowa.
+ 
  
 
-
 ## Past
+- **[Introduction to Partial Differential Equations](https://myui.uiowa.edu/my-ui/courses/details.page?ci=149697&id=980060)** <br /> 
+ Spring 2023 <br /> The University of Iowa.
+ 
  - **[Engineering Math II: Multivariable Calculus](https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=953716)** <br /> 
  Fall 2022 <br /> The University of Iowa.
 
