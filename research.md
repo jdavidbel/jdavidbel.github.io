@@ -33,7 +33,7 @@ pubs:
 
 ---
 I'm currently interested in partial differential equations motivated by models in biology and traffic flow. I study theoretical tools to understand qualitative properties of hyperbolic systems of conservation laws in one dimension.
-I specifically try to look for condition under which certain systems of conservation laws possess solutions trhough techniques coming from functional analysis and weak convergence methods.
+I specifically try to look for conditions under which certain systems of conservation laws possess solutions trhough techniques coming from functional analysis and weak convergence methods.
 
 
 ## Master thesis
