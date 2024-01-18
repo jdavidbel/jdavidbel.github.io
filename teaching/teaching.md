@@ -21,7 +21,7 @@ pasts:
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=149667&id=941277
 ---
 
-## Teaching : 
+
 I have been teaching assistant and main instructor in courses offered by the Department of Mathematics at The University of Iowa:
 
 
