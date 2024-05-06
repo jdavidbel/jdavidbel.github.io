@@ -15,7 +15,7 @@ permalink: /cv/
 
 ## Seminars-Conferences
 
-19-21 April 2024 **Rivière-Fabes Symposium on Analysis and PDE **, Poster presenter, The University of Minnesota, Minneapolis- MN.
+19-21 April 2024 **Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
 
 05-08 June 2023 **XXIII Congreso Colombiano de Matemáticas**, Poster presenter, Universidad Pedagógica y Tecnológica de Colombia, Tunja-Colombia.
 
