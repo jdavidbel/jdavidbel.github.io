@@ -14,6 +14,9 @@ permalink: /cv/
 (2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
 
 ## Seminars-Conferences
+
+19-21 April 2024 **Rivière-Fabes Symposium on Analysis and PDE **, Poster presenter, The University of Minnesota, Minneapolis- MN.
+
 05-08 June 2023 **XXIII Congreso Colombiano de Matemáticas**, Poster presenter, Universidad Pedagógica y Tecnológica de Colombia, Tunja-Colombia.
 
 29-31 May 2023 **Encuentro Latinoamericano de Estudiantes de Doctorado en Modelamiento, Ingeniería y Ciencias**, Speaker, Centro de Modelamiento Matemático - Universidad de Chile, Santiago - Chile.
@@ -41,7 +44,10 @@ permalink: /cv/
 02 - 04 Dec 2015, **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
 
 ## Awards 
+
 2023 - Present **Erwin and Peggy Kleinfeld Scholar**, The University of Iowa.
+
+2023 - 2024 **Outstanding Teaching Assistant Award**, Council of Teaching, The University of Iowa
 
 2021-Present - **Teaching Assistantship position**, The University of Iowa. 
 
