@@ -13,6 +13,17 @@ permalink: /cv/
 
 (2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
 
+## Awards 
+
+2023 - Present **Erwin and Peggy Kleinfeld Scholar**, The University of Iowa.
+
+2023 - 2024 **Outstanding Teaching Assistant Award**, Council of Teaching, The University of Iowa
+
+2021-Present - **Teaching Assistantship position**, The University of Iowa. 
+
+2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia.
+
+
 ## Seminars-Conferences
 
 19-21 April 2024 **Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
@@ -43,15 +54,6 @@ permalink: /cv/
 
 02 - 04 Dec 2015, **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
 
-## Awards 
-
-2023 - Present **Erwin and Peggy Kleinfeld Scholar**, The University of Iowa.
-
-2023 - 2024 **Outstanding Teaching Assistant Award**, Council of Teaching, The University of Iowa
-
-2021-Present - **Teaching Assistantship position**, The University of Iowa. 
-
-2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia.
 
 ## Languages
 - Spanish (Native)
