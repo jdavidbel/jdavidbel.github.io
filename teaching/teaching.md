@@ -27,16 +27,21 @@ I have been teaching assistant and main instructor in courses offered by the Dep
 
 
 ## Current
-- **[MATH:5700 Introduction to Partial Differential Equations](https://myui.uiowa.edu/my-ui/courses/details.page?ci=149697&id=980060)** <br /> 
- (Graduate level class - TA) Spring 2024 <br /> The University of Iowa.
-- **[MATH:4700 Partial Differential Equations and Applications](https://myui.uiowa.edu/my-ui/courses/details.page?ci=173787&id=1015387)** <br /> 
-(TA) Spring 2024 <br />  The University of Iowa.
- 
+
+- **[MATH:5950 Qualyfing Exams Preparation Seminar (PDEs)](https://myui.uiowa.edu/my-ui/courses/details.page?ci=149697&id=980060)** <br /> 
+ (Graduate level class - TA) Summer 2024 <br /> The University of Iowa.
 
  
  
 
 ## Past
+
+- **[MATH:5700 Introduction to Partial Differential Equations](https://myui.uiowa.edu/my-ui/courses/details.page?ci=149697&id=980060)** <br /> 
+ (Graduate level class - TA) Spring 2024 <br /> The University of Iowa.
+ 
+- **[MATH:4700 Partial Differential Equations and Applications](https://myui.uiowa.edu/my-ui/courses/details.page?ci=173787&id=1015387)** <br /> 
+(TA) Spring 2024 <br />  The University of Iowa.
+
 - **[MATH:1005 College Algebra](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=994167)** <br /> 
  (Main instructor) Fall 2023 <br /> The University of Iowa.
  
