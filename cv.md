@@ -26,6 +26,8 @@ permalink: /cv/
 
 ## Seminars-Conferences
 
+29 July - August 09 2024 **MSRI-OIST-OXFORD Summer Graduate School - Analysis of Partial Differential Equations**, Participant, Okinawa Institute of Science and Technology, Okinawa - Japan.
+
 19-21 April 2024 **Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
 
 05-08 June 2023 **XXIII Congreso Colombiano de Matemáticas**, Poster presenter, Universidad Pedagógica y Tecnológica de Colombia, Tunja-Colombia.
