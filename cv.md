@@ -23,10 +23,15 @@ permalink: /cv/
 
 2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia.
 
+## Summer Schools
+
+29 July - August 09 2024 **MSRI-OIST-OXFORD Summer Graduate School - Analysis of Partial Differential Equations**, Participant, Okinawa Institute of Science and Technology, Okinawa - Japan.
+
+
+14 - 22 Oct 2019, **Spring School in Analysis and Mathematical Physics**, Participant, Pontificia Universidad Católica de Chile, Santiago. Chile.
 
 ## Seminars-Conferences
 
-29 July - August 09 2024 **MSRI-OIST-OXFORD Summer Graduate School - Analysis of Partial Differential Equations**, Participant, Okinawa Institute of Science and Technology, Okinawa - Japan.
 
 19-21 April 2024 **Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
 
@@ -43,8 +48,6 @@ permalink: /cv/
 15 - 16 Oct 2022, **The 86th Midwest PDE Seminar**, Participant, The University of Missouri, Columbia, MO-USA-.
 
 30 Oct 2021, **2021 Iowa PDE Seminar**, Participant, Iowa State University, Ames, IA-USA.
-
-14 - 22 Oct 2019, **Spring School in Analysis and Mathematical Physics**, Participant, Pontificia Universidad Católica de Chile, Santiago. Chile.
 
 04 - 05 Oct 2019 **Workshop on Optimization Methods and Applied Mathematics** Participant, Universidad Nacional de Colombia, Bogotá. Colombia.
 
