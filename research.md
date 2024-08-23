@@ -32,19 +32,20 @@ pubs:
       <>    url:  "http://www.imdb.com/title/tt0133093/"
 
 ---
-I'm currently interested in partial differential equations motivated by models in biology and traffic flow. I study theoretical tools to understand qualitative properties of hyperbolic systems of conservation laws in one dimension.
-I specifically try to look for conditions under which certain systems of conservation laws possess solutions trhough techniques coming from functional analysis and weak convergence methods.
+I'm interested in partial differential equations motivated by models in biology and traffic flow. I study theoretical tools to understand qualitative properties of hyperbolic systems of conservation laws in one dimension.
+I specifically try to look for conditions under which certain systems of conservation laws possess solutions trhough weak convergence methods.
 
+Recently I have been working in mainly three projects. The first two are related to 2x2 systems describing repulsive and attractive chemotaxis which, roughly speaking, describe the motion of bacteria that are repelled or attracted by the gradients of chemical concentrations. The third project is related to a higher order continuum model of traffic flow with relaxation terms. I employ compensated compactness techniques to study the existence of weak global solutions for these kind of equations.
 
 ## Master thesis
 Global Lipschitz Continuous Solutions for a Linearly Damped p-system. Beltrán, J.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
 <!-- (https://drive.google.com/file/d/1_P64kWlYtXpNycHJo2yXcU1vP3zbvkrr/view?usp=sharing) -->
 ## Seminars
-I'm currently participating in the [PDE Seminar](https://math.uiowa.edu/seminars/pde) of The University of Iowa headed by [Professor Tong Li](http://homepage.divms.uiowa.edu/~tli/).
-We usually have weekly meetings on Wednesdays 15:30 -16:20 (Central Time). A complete description of the talks can be found [Here](https://math.uiowa.edu/seminars/pde).
+I currently participate in the [PDE Seminar](https://math.uiowa.edu/research/partial-differential-equations) at The University of Iowa headed by [Professor Tong Li](http://homepage.divms.uiowa.edu/~tli/).
+We usually have weekly meetings on Wednesdays 15:30 -16:20 (Central Time).
+
 ## Seminars (past).
 This semester (March - July 2021) we are running a student seminar called "Conservation Laws and Partial Differential Equations" (in Spanish) headed by [Professor Leonardo Rendón](https://scholar.google.com/citations?user=5U0ZQxcAAAAJ&hl=es) from the National University of Colombia.
 [Here](https://drive.google.com/file/d/1-OGxeZ2FeTFvqHLiSpzutyo5IA7l0v2W/view?usp=sharing) you can find a brief description (in Spanish) of the topics we will be covering this semester. 
-Anyone is welcome to participate in the seminar.
-We have weekly meetings each Friday 14:00 -16:00 (Colombia hour) via google Meet. [This](https://meet.google.com/ads-jcfs-hfa)  is the link to the virtual meetings.
+
 
