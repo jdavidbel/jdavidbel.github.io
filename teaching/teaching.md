@@ -21,9 +21,12 @@ pasts:
       url:     https://myui.uiowa.edu/my-ui/courses/details.page?ci=149667&id=941277
 ---
 
+I am deeply inspired by these [axioms](https://fardila.com/) proposed by Prof. Federico Ardila:
 
-I have been teaching assistant and main instructor in courses offered by the Department of Mathematics at The University of Iowa:
-
+- Axiom 1. Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries,
+- Axiom 2. Everyone can have joyful, meaningful, and empowering mathematical experiences,
+- Axiom 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs,
+- Axiom 4. Every student deserves to be treated with dignity and respect.
 
 
 ## Current
