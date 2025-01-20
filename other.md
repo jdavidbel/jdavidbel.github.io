@@ -5,7 +5,7 @@ permalink: /Other/
 ---
 
 ## Service
-- I currently serve as a "International Liaision Officer" at the [Math Graduate Board](https://mathgradboard.com/) at the University of Iowa.
+- During 2023 - 2024 I served as "International Liaision Officer" at the [Math Graduate Board](https://mathgradboard.com/) at the University of Iowa.
 
 ## Certificates
 
