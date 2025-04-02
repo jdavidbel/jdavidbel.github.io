@@ -36,7 +36,7 @@ Spring 2025  **Post-Comprehensive Research Fellowship**, Graduate College, The U
 
 ## Seminars-Conferences
 
-30-31 March 2025 **2025 Spring Central Sectional Meeting, Special Session on Compressible fluid and hyperbolic conservation laws**, Participant, The University of Kansas, Lawrence - KS.
+29-31 March 2025 **2025 Spring Central Sectional Meeting, Special Session on Compressible fluid and hyperbolic conservation laws**, Participant, The University of Kansas, Lawrence - KS.
 
 25-26 October 2024 **Prairie Analysis Seminar 2024**, Participant, The University of Kansas, Lawrence - KS.
 
