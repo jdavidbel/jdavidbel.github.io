@@ -39,7 +39,9 @@ Recently I have been working in mainly three projects. The first two are related
 
 ## Publications
 
-- Beltrán, J. D., Li, Tong. Zero relaxation limit for a non-strictly hyperbolic system arising in traffic flow with dominant diffusion. Accepted for publication on "Analysis and PDE in Latin America, ICMAM 2023-2024" Conference Proceedings. Birkhäuser Cham. 2024.
+- Beltrán, J. D., Li, T. <Critical threshold phenomena in a mixed-type system of conservation laws modeling attractive chemotaxis>. Accepted for publication on "Journal of Mathematical Physics", 2025.
+
+- Beltrán, J. D., Li, T. <Zero relaxation limit for a non-strictly hyperbolic system arising in traffic flow with dominant diffusion>. Accepted for publication on "Analysis and PDE in Latin America, ICMAM 2023-2024" Conference Proceedings. Birkhäuser Cham. 2025.
 
 ## Master thesis
 Global Lipschitz Continuous Solutions for a Linearly Damped p-system. Beltrán, J. D.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
