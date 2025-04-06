@@ -35,7 +35,9 @@ pubs:
 I'm interested in partial differential equations motivated by models in biology and traffic flow. I study theoretical tools to understand qualitative properties of hyperbolic systems of conservation laws in one dimension.
 I specifically try to look for conditions under which certain systems of conservation laws possess solutions through weak convergence methods.
 
-Recently I have been working in mainly three projects. The first two are related to 2x2 systems describing repulsive and attractive chemotaxis which, roughly speaking, describe the motion of bacteria that are repelled or attracted by the gradients of chemical concentrations. The third project is related to a higher order continuum model of traffic flow with relaxation terms. I employ compensated compactness techniques to study the existence of weak global solutions for these kind of equations.
+Recently, I have been working in 2x2 systems of conservation laws describing repulsive and attractive chemotaxis which, roughly speaking, describe the motion of bacteria that are repelled or attracted by the gradients of chemical concentrations.
+
+I have also studied continuum models of traffic flow with relaxation terms. I employ compensated compactness techniques to study the existence of weak global solutions for these kind of problems.
 
 ## Publications
 
