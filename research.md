@@ -41,7 +41,7 @@ I have also studied continuum models of traffic flow with relaxation terms. I em
 
 ## Publications
 
-- Beltrán, J. D., Li, T. "Critical threshold phenomena in a mixed-type system of conservation laws modeling attractive chemotaxis". Accepted for publication on "Journal of Mathematical Physics", 2025.
+- Beltrán, J. D., Li, T. [Critical threshold phenomena in a mixed-type system of conservation laws modeling attractive chemotaxis](https://pubs.aip.org/aip/jmp/article/66/4/041510/3344141/Critical-threshold-phenomena-in-a-mixed-type). J. Math. Phys., 66 (4), 2025.
 
 - Beltrán, J. D., Li, T. "Zero relaxation limit for a non-strictly hyperbolic system arising in traffic flow with dominant diffusion". Accepted for publication on "Analysis and PDE in Latin America, ICMAM 2023-2024" Conference Proceedings. Birkhäuser Cham. 2025.
 
