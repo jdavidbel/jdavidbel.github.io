@@ -38,11 +38,13 @@ Spring 2025  **Post-Comprehensive Research Fellowship**, Graduate College, The U
 
 ## Seminars-Conferences
 
+25-27 April 2025 ** 2025 Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
+
 29-31 March 2025 **2025 Spring Central Sectional Meeting, Special Session on Compressible fluid and hyperbolic conservation laws**, Participant, The University of Kansas, Lawrence - KS.
 
 25-26 October 2024 **Prairie Analysis Seminar 2024**, Participant, The University of Kansas, Lawrence - KS.
 
-19-21 April 2024 **Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
+19-21 April 2024 **2024 Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
 
 05-08 June 2023 **XXIII Congreso Colombiano de Matemáticas**, Poster presenter, Universidad Pedagógica y Tecnológica de Colombia, Tunja-Colombia.
 
