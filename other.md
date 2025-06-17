@@ -14,4 +14,4 @@ permalink: /Other/
 - **[Bridging Domestic and Global diversity](https://international.uiowa.edu/about/outreach/intercultural-training/bridging-domestic-and-global-diversity)** <br /> 
  International Programs <br /> The University of Iowa.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tLkW0DYRzGUJpK-9DmqApq8EElOy_FtNJGVNtwkoP1A&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=tLkW0DYRzGUJpK-9DmqApq8EElOy_FtNJGVNtwkoP1A'></script>
