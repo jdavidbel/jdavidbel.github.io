@@ -38,6 +38,8 @@ Spring 2025  **Post-Comprehensive Research Fellowship**, Graduate College, The U
 
 ## Seminars-Conferences
 
+21-25 July 2025 **Mathematical Congress of the Americas - Special session on Conservation Laws: Mathematical and Numerical Analysis with Applications, Participant. Miami-FL.**
+
 25-27 April 2025 **2025 Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
 
 29-31 March 2025 **2025 Spring Central Sectional Meeting, Special Session on Compressible fluid and hyperbolic conservation laws**, Participant, The University of Kansas, Lawrence - KS.
