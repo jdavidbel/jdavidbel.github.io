@@ -31,7 +31,9 @@ I am deeply inspired by these [axioms](https://fardila.com/) proposed by Prof. F
 
 ## Current
 
-This semester I am under the Post-Comprehensive Research Fellowship offered by The Graduate College at the University of Iowa, and I am not teaching any classes.
+- **[MATH:1005 College Algebra](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=1044167)** <br /> 
+ (Main instructor) Fall 2025 <br /> The University of Iowa.
+
  
 
 ## Past
