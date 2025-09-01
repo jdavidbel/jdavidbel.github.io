@@ -7,6 +7,9 @@ permalink: /blog/
 
 
 ## 2025:
+
+September: [Inside the Chrysalis](https://medium.com/@jobeltranl/inside-the-chrysalis-c95729e887e8)
+
 May: [A reinforced random walk through Iowa City](https://medium.com/@jobeltranl/a-reinforced-random-walk-through-iowa-city-6561acdd49a4)
 
 January: [Contrasts](https://medium.com/@jobeltranl/contrasts-2aecbcb5f8b6)
