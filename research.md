@@ -45,6 +45,16 @@ I have also studied continuum models of traffic flow with relaxation terms. I em
 
 - Beltrán, J. D., Li, T. [Critical threshold phenomena in a mixed-type system of conservation laws modeling attractive chemotaxis](https://pubs.aip.org/aip/jmp/article/66/4/041510/3344141/Critical-threshold-phenomena-in-a-mixed-type). J. Math. Phys., 66 (4), 2025.
 
+## Preprints
+
+- Beltrán, J. D., Li, T. Global existence and zero relaxation limit for a hyperbolic system
+arising in traffic flow with large data. Submitted.
+
+## Work in progress
+
+- Beltrán, J. D., Li, T. Global weak solutions for a hyperbolic system arising in blood
+flow models in the half-line. In preparation.
+
 
 ## Master thesis
 Global Lipschitz Continuous Solutions for a Linearly Damped p-system. Beltrán, J. D.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
