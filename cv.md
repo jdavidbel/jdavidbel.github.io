@@ -15,17 +15,19 @@ permalink: /cv/
 
 ## Awards 
 
-2023 - Present **Erwin and Peggy Kleinfeld Scholar**, Mathematics Department, The University of Iowa.
+2023 - Present - **Erwin and Peggy Kleinfeld Scholar**, Mathematics Department, The University of Iowa.
 
-Spring 2026 **Ballard and Seashore Dissertation Fellowship**, Graduate College, The University of Iowa.
+Spring 2026 - **Ballard and Seashore Dissertation Fellowship**, Graduate College, The University of Iowa.
 
-Spring 2025 **Kleinfeld Student Research Publication Award**, The University of Iowa.
+Spring 2025 - **Kleinfeld Student Research Publication Award**, The University of Iowa.
 
-Spring 2025  **Post-Comprehensive Research Fellowship**, Graduate College, The University of Iowa.
+Spring 2025 - **Post-Comprehensive Research Fellowship**, Graduate College, The University of Iowa.
 
 2024 - **Dale T. Peer Scholarship**, Mathematics Department, The University of Iowa.
 
 2023 - **Outstanding Teaching Assistant Award**, Council on Teaching, The University of Iowa
+
+Summer 2023 - **Erwin and Peggy Kleinfeld Summer Award**, Mathematics Department, The University of Iowa.
 
 2021-Present - **Teaching Assistantship position**, The University of Iowa. 
 
