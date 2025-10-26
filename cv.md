@@ -44,7 +44,7 @@ Summer 2023 - **Erwin and Peggy Kleinfeld Summer Award**, Mathematics Department
 
 25-26 October 2025 - **2025 AMS Fall Eastern Virtual Sectional Meeting - Special Session on Advances and Challenges in Hyperbolic Conservation Laws**, Speaker, Virtual.
 
-10-12 October 2025 - **3rd UNCG Virtual PDE Conference**, Presenter, Virtual.
+10-12 October 2025 - **3rd UNCG Virtual PDE Conference**, Speaker, Virtual.
 
 21-25 July 2025 - **Mathematical Congress of the Americas - Special session on Conservation Laws: Mathematical and Numerical Analysis with Applications**, Participant. Miami-FL.
 
