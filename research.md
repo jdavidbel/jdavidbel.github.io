@@ -39,7 +39,7 @@ Recently, I have been working in 2x2 systems of conservation laws describing rep
 
 I have also studied continuum models of traffic flow with relaxation terms. I employ compensated compactness techniques to study the existence of weak global solutions for these kind of problems. 
 
-Here you can find my [research statement](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/EYy945Sk1NRJt2gcJ-BKpf8BvmM_DIrWMoJ2GLaCotYjRA?e=hshnmx)
+Here you can find my [research statement](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/EYy945Sk1NRJt2gcJ-BKpf8BvmM_DIrWMoJ2GLaCotYjRA?e=hshnmx).
 
 ## Publications
 
