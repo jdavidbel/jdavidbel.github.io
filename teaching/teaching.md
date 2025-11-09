@@ -28,6 +28,7 @@ I am deeply inspired by these [axioms](https://fardila.com/) proposed by Prof. F
 - Axiom 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs,
 - Axiom 4. Every student deserves to be treated with dignity and respect.
 
+Here you can find my [statement of teaching philosophy](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/Edlc7BjpNEVMoZUKtfxR2FIBPQqz--Wkw0yBNpFZobelFg?e=HVsk0c)
 
 ## Current
 
