@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 <!-- PDF in [Spanish](https://drive.google.com/file/d/10lxIfWi3w2f4vkrpq0uMvIS50gDtsoTU/view?usp=sharing).-->
 
-<!-- PDF in [English](https://drive.google.com/file/d/11tmCgI7HBp8ZZxy3zHvLBFeCtniIOC3u/view?usp=sharing). -->
+[CV (Updated December 2025) ](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/IQA78AWzx-xSSqwgTZ2o9fnCAQGHUdL0eE7D9lph6rBRgxE?e=DbHw3W).
 ## Education
 (2021- Present) PhD. Mathematics - The University of Iowa.
 
