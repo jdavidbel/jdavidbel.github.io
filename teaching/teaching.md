@@ -32,12 +32,14 @@ Here you can find my [statement of teaching philosophy](https://iowa-my.sharepoi
 
 ## Current
 
-- **[MATH:1005 College Algebra](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=1044167)** <br /> 
- (Main instructor) Fall 2025 <br /> The University of Iowa.
 
+This semester I am a graduate fellow under the Ballard and Seashore scholarship and I am not teaching any course.
  
 
 ## Past
+
+- **[MATH:1005 College Algebra](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=1044167)** <br /> 
+ (Main instructor) Fall 2025 <br /> The University of Iowa.
 
 - **[MATH:1560 Engineering Math II: Multivariable Calculus](https://myui.uiowa.edu/my-ui/courses/details.page?ci=152065&id=1018300)** <br /> 
  (TA) Fall 2024 <br /> The University of Iowa.
