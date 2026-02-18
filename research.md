@@ -52,10 +52,9 @@ Here you can find my [research statement](https://iowa-my.sharepoint.com/:b:/g/p
 - Beltrán, J. D., Li, T. Global existence and zero relaxation limit for a hyperbolic system
 arising in traffic flow with large data. Submitted.
 
-## Work in progress
-
 - Beltrán, J. D., Li, T. Global weak solutions for a hyperbolic system arising in blood
-flow models in the half-line. In preparation.
+flow models in the half-line. Submitted.
+
 
 
 ## Master thesis
