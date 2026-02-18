@@ -42,6 +42,8 @@ Summer 2023 - **Erwin and Peggy Kleinfeld Summer Award**, Mathematics Department
 
 ## Seminars-Conferences
 
+18 Feb 2026 - **Department Seminar - SUNY New Paltz**, Speaker. New Paltz-NY.
+
 25-26 October 2025 - **2025 AMS Fall Eastern Virtual Sectional Meeting - Special Session on Advances and Challenges in Hyperbolic Conservation Laws**, Speaker, Virtual.
 
 10-12 October 2025 - **3rd UNCG Virtual PDE Conference**, Speaker, Virtual.
