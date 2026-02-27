@@ -31,7 +31,7 @@ Summer 2023 - **Erwin and Peggy Kleinfeld Summer Award**, Mathematics Department
 
 2021-Present - **Teaching Assistantship position**, The University of Iowa. 
 
-2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia.
+2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia
 
 ## Summer Schools
 
