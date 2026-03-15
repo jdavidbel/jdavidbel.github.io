@@ -9,6 +9,8 @@ permalink: /cv/
 ## Education
 (2021- Present) PhD. Mathematics - The University of Iowa.
 
+(2025 - Present) Certificate in College Teaching - College of Education - The University of Iowa.
+
 (2019-2020) MSc Mathematics - Universidad Nacional de Colombia - Sede Bogotá.
 
 (2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
