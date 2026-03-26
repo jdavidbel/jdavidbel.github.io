@@ -43,8 +43,8 @@ Here you can find my [research statement](https://iowa-my.sharepoint.com/:b:/g/p
 
 ## Publications
 
-- Beltrán, J. D., Li, T. Global existence and zero relaxation limit for a hyperbolic system
-arising in traffic flow with large data. Accepted for publication, Journal of Differential Equations, 2026.
+- Beltrán, J. D., Li, T. [Global existence and zero relaxation limit for a hyperbolic system
+arising in traffic flow with large data](https://www.sciencedirect.com/science/article/pii/S0022039626002512). J. Differ. Equ. (467), 2026.
 
 - Beltrán, J. D., Li, T. [Zero relaxation limit for a non-strictly hyperbolic system arising in traffic flow with dominant diffusion](https://link.springer.com/chapter/10.1007/978-3-031-99557-6_13). Cardona Sanchez, D., Grajales, B. (eds). Analysis and PDE in Latin America, ICMAM 2024,Trends in Mathematics. Birkhäuser Cham. 2026.
 
