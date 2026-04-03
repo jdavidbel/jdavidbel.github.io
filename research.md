@@ -44,11 +44,11 @@ Here you can find my [research statement](https://iowa-my.sharepoint.com/:b:/g/p
 ## Publications
 
 - Beltrán, J. D., Li, T. [Global existence and zero relaxation limit for a hyperbolic system
-arising in traffic flow with large data](https://www.sciencedirect.com/science/article/pii/S0022039626002512). J. Differ. Equ. (467), 2026.
+arising in traffic flow with large data](https://www.sciencedirect.com/science/article/pii/S0022039626002512). J. Differ. Equ. **467**, 114344, (2026).
 
 - Beltrán, J. D., Li, T. [Zero relaxation limit for a non-strictly hyperbolic system arising in traffic flow with dominant diffusion](https://link.springer.com/chapter/10.1007/978-3-031-99557-6_13). Cardona Sanchez, D., Grajales, B. (eds). Analysis and PDE in Latin America, ICMAM 2024,Trends in Mathematics. Birkhäuser Cham. 2026.
 
-- Beltrán, J. D., Li, T. [Critical threshold phenomena in a mixed-type system of conservation laws modeling attractive chemotaxis](https://pubs.aip.org/aip/jmp/article/66/4/041510/3344141/Critical-threshold-phenomena-in-a-mixed-type). J. Math. Phys., 66 (4), 2025.
+- Beltrán, J. D., Li, T. [Critical threshold phenomena in a mixed-type system of conservation laws modeling attractive chemotaxis](https://pubs.aip.org/aip/jmp/article/66/4/041510/3344141/Critical-threshold-phenomena-in-a-mixed-type). J. Math. Phys., **66**, 041510, (2025).
 
 
 
