@@ -7,7 +7,7 @@ permalink: /cv/
 
 [CV (Updated March 2026) ](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/IQCNKZTeNG3NTpDdPWkcJD6wAaOrfwhZ1uy7nt4RKJ7wyHA?e=uRbull).
 ## Education
-(2021- Present) PhD. Mathematics - The University of Iowa.
+(2021- 2026) PhD. Mathematics - The University of Iowa.
 
 (2025 - Present) Certificate in College Teaching - College of Education - The University of Iowa.
 
