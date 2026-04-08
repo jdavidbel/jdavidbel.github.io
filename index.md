@@ -7,6 +7,7 @@ permalink: /
 
 My name is José David Beltrán Lizarazo. 
 I received my Ph.D. in Mathematics at [The University of Iowa](https://math.uiowa.edu/) in April 2026 under the direction of [Professor Tong Li](https://math.uiowa.edu/people/tong-li). I'm mainly interested in partial differential equations, more precisely hyperbolic systems of conservation laws.
+
 Starting July 2026, I will join the [Department of Mathematics and Statistics at Queen's University](https://www.queensu.ca/mathstat/) as a Coleman Postdoctoral Fellow under the direction of [Professor Maria Teresa Chiri](https://mariateresachiri.weebly.com/).
 
 
