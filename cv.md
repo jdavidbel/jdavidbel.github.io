@@ -44,45 +44,47 @@ Summer 2023 - **Erwin and Peggy Kleinfeld Summer Award**, Mathematics Department
 
 ## Seminars-Conferences
 
-18 Feb 2026 - **Department Seminar - SUNY New Paltz**, Speaker. New Paltz-NY.
+April 23-24 2026 - **Primer Encuentro Juvenil en Ecuaciones Diferenciales**, Plenary Speaker. Universidad Distrital Francisco José de Caldas. Bogotá, Colombia.
 
-25-26 October 2025 - **2025 AMS Fall Eastern Virtual Sectional Meeting - Special Session on Advances and Challenges in Hyperbolic Conservation Laws**, Speaker, Virtual.
+February 18, 2026 - **Department Seminar - SUNY New Paltz**, Speaker. New Paltz-NY.
 
-10-12 October 2025 - **3rd UNCG Virtual PDE Conference**, Speaker, Virtual.
+October 25-26, 2025 - **2025 AMS Fall Eastern Virtual Sectional Meeting - Special Session on Advances and Challenges in Hyperbolic Conservation Laws**, Speaker, Virtual.
 
-21-25 July 2025 - **Mathematical Congress of the Americas - Special session on Conservation Laws: Mathematical and Numerical Analysis with Applications**, Participant. Miami-FL.
+October 10-12, 2025 - **3rd UNCG Virtual PDE Conference**, Speaker, Virtual.
 
-25-27 April 2025 - **2025 Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
+July 21-25, 2025 - **Mathematical Congress of the Americas - Special session on Conservation Laws: Mathematical and Numerical Analysis with Applications**, Participant. Miami-FL.
 
-29-31 March 2025 - **2025 AMS Spring Central Sectional Meeting, Special Session on Compressible fluid and hyperbolic conservation laws**, Participant, The University of Kansas, Lawrence - KS.
+April 25-27, 2025 - **2025 Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
 
-25-26 October 2024 - **Prairie Analysis Seminar 2024**, Participant, The University of Kansas, Lawrence - KS.
+March 29-31, 2025 - **2025 AMS Spring Central Sectional Meeting, Special Session on Compressible fluid and hyperbolic conservation laws**, Participant, The University of Kansas, Lawrence - KS.
 
-19-21 April 2024 - **2024 Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
+October 25-26, 2024 - **Prairie Analysis Seminar 2024**, Participant, The University of Kansas, Lawrence - KS.
 
-05-08 June 2023 - **XXIII Congreso Colombiano de Matemáticas**, Poster presenter, Universidad Pedagógica y Tecnológica de Colombia, Tunja-Colombia.
+April 19-21, 2024 - **2024 Rivière-Fabes Symposium on Analysis and PDE**, Poster presenter, The University of Minnesota, Minneapolis- MN.
 
-29-31 May 2023 - **Encuentro Latinoamericano de Estudiantes de Doctorado en Modelamiento, Ingeniería y Ciencias**, Speaker, Centro de Modelamiento Matemático - Universidad de Chile, Santiago - Chile.
+June 05-08, 2023 - **XXIII Congreso Colombiano de Matemáticas**, Poster presenter, Universidad Pedagógica y Tecnológica de Colombia, Tunja-Colombia.
 
-05-07 May 2023 - **The 87th Midwest PDE Seminar**, Participant, University of Notre Dame, Notre Dame, IN-USA.
+May 29-31, 2023 - **Encuentro Latinoamericano de Estudiantes de Doctorado en Modelamiento, Ingeniería y Ciencias**, Speaker, Centro de Modelamiento Matemático - Universidad de Chile, Santiago - Chile.
 
-21-22 Apr 2023 - **7th KUMUNU-ISU Conference in PDE, Dynamical Systems and Applications**, Participant, Iowa State University, Ames, IA-USA.
+May 05-07, 2023 - **The 87th Midwest PDE Seminar**, Participant, University of Notre Dame, Notre Dame, IN-USA.
 
-22 Oct 2022 - **2022 Iowa PDE Conference**, Speaker, The University of Iowa, Iowa City, IA-USA.
+April 21-22, 2023 - **7th KUMUNU-ISU Conference in PDE, Dynamical Systems and Applications**, Participant, Iowa State University, Ames, IA-USA.
 
-15 - 16 Oct 2022 - **The 86th Midwest PDE Seminar**, Participant, The University of Missouri, Columbia, MO-USA-.
+October 22, 2022 - **2022 Iowa PDE Conference**, Speaker, The University of Iowa, Iowa City, IA-USA.
 
-30 Oct 2021 - **2021 Iowa PDE Seminar**, Participant, Iowa State University, Ames, IA-USA.
+October 15-16,  2022 - **The 86th Midwest PDE Seminar**, Participant, The University of Missouri, Columbia, MO-USA-.
 
-04 - 05 Oct 2019 - **Workshop on Optimization Methods and Applied Mathematics** Participant, Universidad Nacional de Colombia, Bogotá. Colombia.
+October 30, 2021 - **2021 Iowa PDE Seminar**, Participant, Iowa State University, Ames, IA-USA.
 
-04 - 07 June 2019 - **V Taller de Análisis no-lineal y Ecuaciones Diferenciales Parciales**, Poster presenter, Universidad Nacional de Colombia, Bogotá. Colombia.
+October 04-05,  2019 - **Workshop on Optimization Methods and Applied Mathematics** Participant, Universidad Nacional de Colombia, Bogotá. Colombia.
 
-26 Nov - 01 Dec 2017 - **International Conference on Applied Mathematics and Informatics** , Poster presenter, San Andrés. Colombia.
+June 04-07, 2019 - **V Taller de Análisis no-lineal y Ecuaciones Diferenciales Parciales**, Poster presenter, Universidad Nacional de Colombia, Bogotá. Colombia.
 
-06 - 08 May 2015 - **V Encuentro Nacional de Matemáticas y Estadística**, Poster presenter, Universidad del Tolima. Neiva, Colombia.
+Nov. 26-Dec. 01, 2017 - **International Conference on Applied Mathematics and Informatics** , Poster presenter, San Andrés. Colombia.
 
-02 - 04 Dec 2015 - **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
+May 06-08, 2015 - **V Encuentro Nacional de Matemáticas y Estadística**, Poster presenter, Universidad del Tolima. Neiva, Colombia.
+
+December 02-04, 2015 - **IX Simposio Nororiental de Matemáticas**, Poster presenter, Universidad Industrial de Santander. Bucaramanga, Colombia.
 
 
 ## Languages
