@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 <!-- PDF in [Spanish](https://drive.google.com/file/d/10lxIfWi3w2f4vkrpq0uMvIS50gDtsoTU/view?usp=sharing).-->
 
-[CV (Updated March 2026) ](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/IQCNKZTeNG3NTpDdPWkcJD6wAaOrfwhZ1uy7nt4RKJ7wyHA?e=uRbull).
+[CV (Updated April 2026) ](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/IQDAkso74Ns_Q5JtOM7e5Bc2ATOihPOzQ4ch8M6acbiOTDg?e=2R6nje).
 ## Education
 (2021- 2026) PhD. Mathematics - The University of Iowa.
 
@@ -18,6 +18,8 @@ permalink: /cv/
 ## Awards 
 
 2023 - Present - **Erwin and Peggy Kleinfeld Scholar**, Mathematics Department, The University of Iowa.
+
+2026 - **Bor-Luh Lin Outstanding Thesis Award**, Mathematics Department, The University of Iowa.
 
 Spring 2026 - **Ballard and Seashore Dissertation Fellowship**, Graduate College, The University of Iowa.
 
