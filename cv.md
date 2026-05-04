@@ -46,7 +46,9 @@ Summer 2023 - **Erwin and Peggy Kleinfeld Summer Award**, Mathematics Department
 
 ## Seminars-Conferences
 
-April 23-24 2026 - **Primer Encuentro Juvenil en Ecuaciones Diferenciales**, Plenary Speaker. Universidad Distrital Francisco José de Caldas. Bogotá, Colombia.
+May 01-03, 2026 - **2026 Rivière-Fabes Symposium on Analysis and PDE**, Participant. The University of Minnesota, Minneapolis - MN.
+
+April 23-24, 2026 - **Primer Encuentro Juvenil en Ecuaciones Diferenciales**, Plenary Speaker. Universidad Distrital Francisco José de Caldas. Bogotá, Colombia.
 
 February 18, 2026 - **Department Seminar - SUNY New Paltz**, Speaker. New Paltz-NY.
 
