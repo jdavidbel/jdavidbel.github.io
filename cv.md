@@ -7,19 +7,19 @@ permalink: /cv/
 
 [CV (Updated April 2026) ](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/IQDAkso74Ns_Q5JtOM7e5Bc2ATOihPOzQ4ch8M6acbiOTDg?e=2R6nje).
 ## Education
-(2021- 2026) PhD. Mathematics - The University of Iowa.
+(2021-2026) PhD. Mathematics - The University of Iowa.
 
-(2025 - Present) Certificate in College Teaching - College of Education - The University of Iowa.
+(2025-2026) Certificate in College Teaching - The University of Iowa.
 
 (2019-2020) MSc Mathematics - Universidad Nacional de Colombia - Sede Bogotá.
 
-(2012 - 2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
+(2012-2018) BSc Mathematics - Universidad Distrital Francisco José de Caldas.
 
 ## Awards 
 
-2023 - Present - **Erwin and Peggy Kleinfeld Scholar**, Mathematics Department, The University of Iowa.
+2023-2026 - **Erwin and Peggy Kleinfeld Scholar**, Mathematics Department, The University of Iowa.
 
-2026 - **Bor-Luh Lin Outstanding Thesis Award**, Mathematics Department, The University of Iowa.
+2026-**Bor-Luh Lin Outstanding Thesis Award**, Mathematics Department, The University of Iowa.
 
 Spring 2026 - **Ballard and Seashore Dissertation Fellowship**, Graduate College, The University of Iowa.
 
@@ -29,20 +29,18 @@ Spring 2025 - **Post-Comprehensive Research Fellowship**, Graduate College, The 
 
 2024 - **Dale T. Peer Scholarship**, Mathematics Department, The University of Iowa.
 
-2023 - **Outstanding Teaching Assistant Award**, Council on Teaching, The University of Iowa
+2023 - **Outstanding Teaching Assistant Award**, Council on Teaching, The University of Iowa.
 
 Summer 2023 - **Erwin and Peggy Kleinfeld Summer Award**, Mathematics Department, The University of Iowa.
 
-2021-Present - **Teaching Assistantship position**, The University of Iowa. 
-
-2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia
+2018-2020 - **Beca de exención de derechos académicos**, Universidad Nacional de Colombia.
 
 ## Summer Schools
 
-29 July - August 09 2024 **MSRI-OIST-OXFORD Summer Graduate School - Analysis of Partial Differential Equations**, Participant, Okinawa Institute of Science and Technology, Okinawa - Japan.
+July 29 - August 09, 2024 **MSRI-OIST-OXFORD Summer Graduate School - Analysis of Partial Differential Equations**, Participant, Okinawa Institute of Science and Technology, Okinawa - Japan.
 
 
-14 - 22 Oct 2019, **Spring School in Analysis and Mathematical Physics**, Participant, Pontificia Universidad Católica de Chile, Santiago. Chile.
+October 14-22, 2019, **Spring School in Analysis and Mathematical Physics**, Participant, Pontificia Universidad Católica de Chile, Santiago. Chile.
 
 ## Seminars-Conferences
 
