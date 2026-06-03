@@ -30,13 +30,7 @@ I am deeply inspired by these [axioms](https://fardila.com/) proposed by Prof. F
 
 Here you can find my [statement of teaching philosophy](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/Edlc7BjpNEVMoZUKtfxR2FIBPQqz--Wkw0yBNpFZobelFg?e=HVsk0c).
 
-## Current
-
-
-This semester I am a graduate fellow under the Ballard and Seashore scholarship and I am not teaching any course.
- 
-
-## Past
+## The University of Iowa
 
 - **[MATH:1005 College Algebra](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=1044167)** <br /> 
  (Main instructor) Fall 2025 <br /> The University of Iowa.
