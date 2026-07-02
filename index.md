@@ -15,5 +15,5 @@ I did my undergraduate studies in Mathematics at the "Universidad Distrital Fran
 
 [Contact](/contact/)
 
-The University of Iowa - Maclean Hall Office 225 N
+Queen's University, Jeffery Hall
 
