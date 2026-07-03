@@ -15,5 +15,5 @@ I did my undergraduate studies in Mathematics at the "Universidad Distrital Fran
 
 [Contact](/contact/)
 
-Queen's University, Jeffery Hall
+Queen's University, Jeffery Hall, Office 208.
 
