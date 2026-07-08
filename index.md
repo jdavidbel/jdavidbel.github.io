@@ -5,7 +5,7 @@ permalink: /
 ---
 {% include image.html url="images/chi.jpg" caption="" width="450px" align="left" %}
 
-My name is José David Beltrán Lizarazo. I am Postdoctoral Fellow in the [Department of Mathematics and Statistics at Queen's University](https://www.queensu.ca/mathstat/) under the direction of [Prof. Maria Teresa Chiri](https://mariateresachiri.weebly.com/).
+My name is José David Beltrán Lizarazo. I am Postdoctoral Fellow in the [Department of Mathematics and Statistics at Queen's University](https://www.queensu.ca/mathstat/) under the supervision of [Prof. Maria Teresa Chiri](https://mariateresachiri.weebly.com/).
 I received my Ph.D. in Mathematics at [The University of Iowa](https://math.uiowa.edu/) in April 2026 under the direction of [Prof. Tong Li](https://math.uiowa.edu/people/tong-li). I'm mainly interested in hyperbolic systems of conservation laws and applications in traffic flow and models arising in biology.
 
 
