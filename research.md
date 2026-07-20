@@ -56,17 +56,15 @@ arising in traffic flow with large data](https://www.sciencedirect.com/science/a
 
 
 
-- Beltrán, J. D., Li, T. Global weak solutions for a hyperbolic system arising in blood
-flow models in the half-line. Submitted.
+- Beltrán, J. D., Li, T. Global existence for a non-strictly hyperbolic system modeling blood flow in the half-line with large data. Submitted (2026).
 
 
 
 ## Master's thesis
 Global Lipschitz Continuous Solutions for a Linearly Damped p-system. Beltrán, J. D.,Rendón, L. Universidad Nacional de Colombia, Bogotá. 
 <!-- (https://drive.google.com/file/d/1_P64kWlYtXpNycHJo2yXcU1vP3zbvkrr/view?usp=sharing) -->
-## Seminars
-I currently participate in the [PDE Seminar](https://math.uiowa.edu/research/partial-differential-equations) at The University of Iowa headed by [Professor Xiaoyi Zhang](https://math.uiowa.edu/people/xiaoyi-zhang).
-We usually have weekly meetings on Wednesdays 15:30 -16:20 (Central Time).
+
+
 
 
 
