@@ -32,7 +32,7 @@ Here you can find my [statement of teaching philosophy](https://iowa-my.sharepoi
 
 ## Queen's University
 
-- **[MATH/MTHE 280 Advanced Calculus](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=1044167)** <br /> 
+- **MATH/MTHE 280 Advanced Calculus** <br /> 
  (Main instructor) Fall 2026 <br /> Queen's University.
 
 ## The University of Iowa
