@@ -30,6 +30,11 @@ I am deeply inspired by these [axioms](https://fardila.com/) proposed by Prof. F
 
 Here you can find my [statement of teaching philosophy](https://iowa-my.sharepoint.com/:b:/g/personal/jdbeltranlizarazo_uiowa_edu/Edlc7BjpNEVMoZUKtfxR2FIBPQqz--Wkw0yBNpFZobelFg?e=HVsk0c).
 
+## Queen's University
+
+- **[MATH/MTHE 280 Advanced Calculus](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=1044167)** <br /> 
+ (Main instructor) Fall 2026 <br /> Queen's University.
+
 ## The University of Iowa
 
 - **[MATH:1005 College Algebra](https://myui.uiowa.edu/my-ui/courses/details.page?ci=157684&id=1044167)** <br /> 
