@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /teaching/ecdif2020ii/
-title: Engineer Math I Single Variable Calculus Fall 2021
+title: MATH/MTHE 280 Advanced Calculus
 ---
 ![](/teaching/2020ii/img/Chaos.jpg)
-<br> <ins>Name:</ins> Engineer Math I Single Variable Calculus
-<br> <ins>Code:</ins> MATH1550:0134
-<br> <ins> MWF - 2:00 PM - 2:50 PM
-<br> <ins>Course Supervisor :</ins> Prof. Cynthia Farthing.
+<br> <ins>Name:</ins> Advanced Calculus
+<br> <ins>Code:</ins> MATH/MTHE 280
+<br> <ins> Tu 3:30 pm - 4:30 pm, Th 2:30 pm - 3:30 pm, 	Fr 4:30 pm - 5:30 pm.
+<br> <ins> Classroom : KINES & HLTH RM100.
 
- [Course description and information:](https://myui.uiowa.edu/my-ui/courses/details.page?ci=155573&id=941316)
-
+ 
