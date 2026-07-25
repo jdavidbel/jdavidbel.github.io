@@ -5,6 +5,9 @@ permalink: /blog/
 ---
 [This](https://jobeltranl.medium.com/) is a direct link to my blog page in Medium. Here are some of my entries:
 
+## 2026:
+
+July: [The best view in campus](https://medium.com/@jobeltranl/the-best-view-in-campus-8da65adfff4a)
 
 ## 2025:
 
