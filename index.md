@@ -10,7 +10,7 @@ I received my Ph.D. in Mathematics at [The University of Iowa](https://math.uiow
 
 
 I am originally from Bogotá-Colombia. I completed a MSc in Mathematics at the National University of Colombia, Bogotá under the supervision of [Prof. Leonardo Rendón Arbelaez](https://ciencias.bogota.unal.edu.co/docente/rendon-arbelaez-leonardo/). 
-I did my undergraduate studies in Mathematics at the "Universidad Distrital Francisco José de Caldas" in Bogotá, under the mentorship of [Prof. Arturo Sanjuán Cuellar](https://fnaturales.udistrital.edu.co/matematicas/index.php/docentes/alvaro-arturo-sanjuan-cuellar). 
+I did my undergraduate studies in Mathematics at Universidad Distrital Francisco José de Caldas in Bogotá, under the mentorship of [Prof. Arturo Sanjuán Cuellar](https://arturosanjuan.xyz/). 
 
 
 [Contact](/contact/)
