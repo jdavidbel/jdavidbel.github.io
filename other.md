@@ -5,6 +5,7 @@ permalink: /Other/
 ---
 
 ## Service
+- Judge - **[Queen's Engineering Competition](https://quengcomp.com/)**: Consulting. November 14 - 2026. Queen's University. 
 - During 2023 - 2024 I served as "International Liaison Officer" at the [Math Graduate Board](https://mathgradboard.com/) at the University of Iowa.
 - Volunteer for  **[18th Sonia Kovalevsky High School Mathematics Day](https://math.uiowa.edu/events/sonia-kovalevsky-high-school-mathematics-day)** <br /> 
  Department of Mathematics <br /> The University of Iowa.
